@@ -1,3 +1,5 @@
+package core.java.src;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,6 +12,7 @@ class Interval {
     double end;
     int day;
     Game game;
+    int week;
 
     /**
      * Initialize an Interval object.
@@ -39,7 +42,7 @@ class Interval {
      */
     public String repr() {
         if (game != null) {
-            return "Interval(" + start + ", " + end + ") (" + game.team1_id + " vs. " + game.team2_id + ")";
+            return "Interval(" + start + ", " + end + ") (" + game.getTeam1Id() + " vs. " + game.getTeam2Id() + ")";
         }
         return "Interval(" + start + ", " + end + ")";
     }

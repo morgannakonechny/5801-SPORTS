@@ -30,22 +30,22 @@ public class Game {
 		this.season = season;
 		this.start = start;
 		this.end = end;
-<<<<<<< HEAD
 		this.venue_id = venue_id;
-=======
-		this.venueName = venueName;
->>>>>>> 1753de3e1b880f70d6396ef2fc25c8efe9bd17dc
+	}
+
+	public int getTeam1Id() {
+		return this.team1_id;
+	}
+
+	public int getTeam2Id() {
+		return this.team2_id;
 	}
 
 	/**
      * Prints a description of the game, including the teams, start and end times, week, and day.
      */
     public void dump() {
-<<<<<<< HEAD
         System.out.println("Team " + team1_id + " vs. Team " + team2_id + 
-=======
-        System.out.println("Team " + team1Name + " vs. Team " + team2Name + 
->>>>>>> 1753de3e1b880f70d6396ef2fc25c8efe9bd17dc
                            " (" + start + "-" + end + ") Week: " + week + 
                            ", Day: " + day + ", Season: " + season);
     }
