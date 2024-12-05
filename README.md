@@ -5,6 +5,13 @@ Welcome to the **P4 Project** for the **SPORTS system**. This project provides a
 
 The SPORTS system web portal includes three primary pages:
 - **Landing Page**: Can be ignored for this assignment.
+- **Login Page**: Authentication portal to be used once for sign on
+
+Credentials:
+```
+email: user@example.com
+password: password
+```
 - **Scheduler Page**: Contains buttons to test and run your scheduling code. Refer to the "Test Cases" section for details about each dataset.
 
 ---
@@ -95,7 +102,6 @@ Your final output file (`schedule.csv`) must contain the following headers:
 - **`season`**: Year of the season (assume 2024 for all matches).
 - **`league`**: Name of the league.
 - **`location`**: Venue description in the format `"<venue_name> Field #<field_number>"`.
-
 ---
 
 # Test Cases
@@ -106,7 +112,7 @@ Testing is best conducted through the web server. However, tests can also be run
 ./bin/test <case>
 ```
 
-Later test cases are evaluated on thresholds rather than completeness due to limited availability. Passing all test cases does not guarantee an "A". Ensure your work is well-documented and reach out on **Piazza** for questions.
+Later test cases are evaluated on thresholds rather than completeness due to limited availability. Passing all test cases does not guarantee an "A". Ensure your work is well-documented and reach out on **Piazza** for questions. You may assume that each game is 2 hours long, however this should not be hardcoded.
 
 ### Case Details
 
