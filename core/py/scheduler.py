@@ -1,8 +1,63 @@
 import sys
 import pandas as pd
+from game import Game
+from interval_tree import Interval, IntervalNode, IntervalTree
 
 class Scheduler:
-	
+	# method to generate pairs of teams in a league in a round robin manner
+	@staticmethod
+	def createPairs(league):
+		# create lists to store the teams
+		homeTeams = []
+		awayTeams = []
+		# splits the teams into two evenly sized groups by alternating which list they are added to
+		for i in range(len(league["teams"])):
+			if i % 2 == 0:
+				homeTeams.append(league["teams"][i])
+			else:
+				awayTeams.append(league["teams"][i])
+		# if there is an odd number of teams, create a dummy team to represent a bye
+		if len(awayTeams) < len(homeTeams):
+			awayTeams.append("bye")
+		# set the pairs key to 
+		league["pairs"] = [homeTeams, awayTeams]
+		
+		
+	@staticmethod
+	def roundRobin(league):
+        # cycle the lists
+		home = league["pairs"][0]
+		away = league["pairs"][1]
+		newAway = [home[1]]
+		if len(home) > 2 and len(away) > 2:
+			for i in range(len(away) - 1):
+				newAway.append(away[i])
+			for i in range(1, len(home) - 1):
+				home[i] = home[i + 1]
+			home[-1] = away[-1]
+			league["pairs"] = [home, newAway]		
+			
+	def samTemp(league):
+		home = league["pairs"][0]
+		away = league["pairs"][1]
+
+		# new lists to be populated with "rotated teams"
+		newHome = []
+		newAway = []
+
+		# first element of home is anchored and should stay the same
+		newHome.append(home[0])
+		newHome += home[2:]
+		newHome.append(away[-1])
+
+		# rotate away
+		newAway.append(home[1])
+		newAway += away[:len(away) - 1]
+
+		# update league["pairs"]
+		league["pairs"] = [newHome, newAway]
+
+				
 	@staticmethod
 	def run(case: str = "case1") -> int:
 		"""
@@ -12,9 +67,10 @@ class Scheduler:
 			int: Returns 0 if successful.
 		"""
 		
-		input_teams: str = f"./data/{case}/team.csv"
-		input_venues: str = f"./data/{case}/venue.csv"
-		input_leagues: str = f"./data/{case}/league.csv"
+		# SAM CHANGE: back to ./data
+		input_teams: str = f"../../data/{case}/team.csv"
+		input_venues: str = f"../../data/{case}/venue.csv"
+		input_leagues: str = f"../../data/{case}/league.csv"
 
 		input_sports = {
 			1: "Basketball",
@@ -26,12 +82,142 @@ class Scheduler:
 			7: "Hockey"
 		}
 		
-		team_df = pd.DataFrame()
-		venue_df = pd.DataFrame()
-		league_df = pd.DataFrame()
+		# read data into pandas dataframes
+		team_df = pd.read_csv(input_teams)
+		venue_df = pd.read_csv(input_venues)
+		league_df = pd.read_csv(input_leagues)
 		
+		# convert dataframes to a list of dictionaries
+		leagues = league_df.to_dict(orient="records")
+		venues = venue_df.to_dict(orient="records")
+		teams = team_df.to_dict(orient="records")
+
+		# add appropriate teams to their corresponding leagues
+		# [{leagueid: 1, ... teams: [{team 1 dict}, {team 2 dict}] } ]
+		for league in leagues:
+			league_teams = []
+			for team in teams:
+				if team["leagueId"] == league["leagueId"]:
+					league_teams.append(team)
+			league["teams"] = league_teams
+			league["gamesPlayed"] = 0
+
+			if len(league["teams"]) < 2: 
+				return 1	# cannot create schedule for a league with only team
+			
+			# check that there are a valid number of weeks in the league
+			numWeeks = league["seasonEnd"] - league["seasonStart"] + 1
+			if numWeeks < 1:
+				return 1	# cannot create schedule for a league with 0 weeks, or start week later than end week
+			
+			# extract the number of games that should be played every week by a team to reach numberOfGames
+			league["gamesPerWeek"] = int((league["numberOfGames"] / numWeeks) + 0.5)
+			# create the initial groupings of teams
+			Scheduler.createPairs(league)
+
 		games = []
 		
+		# create an interval tree for every venue to help see overlap in scheduling
+		interval_trees = []
+		for venue in venues:
+			interval_trees.append({f"{venue["venueId"]}": IntervalTree()})
+			
+
+		# iterate through each week
+		for i in range(1, 53):
+			playingLeagues = []
+			# find which leagues need to play this week
+			for league in leagues:
+				if i >= league["seasonStart"] and i <= league["seasonEnd"]:
+					playingLeagues.append(league)
+			# for each league that needs to play this week
+			for league in playingLeagues:
+				teamIntervalTrees = []
+				for i in range(league["gamesPerWeek"]):					
+					Scheduler.roundRobin(league)
+					# make an IntervalTree for those teams
+				
+			
+					
+			
+
+
+
+
+
+		#	for each week in the year:
+		#		create a list of all the leagues that are playing that week
+		# 		for all leagues playing that week
+		#			for game in numGamesPerWeek
+		#				rotate pairings
+		#				for pair in pairings
+		#					create an interval tree
+		#					find overlapping time for pair
+		#					find overlapping time for pair and venue
+		#					if found -> 
+
+
+
+
+
+
+		# start by extracting the team/venue/league data into the dataframes from the csv files -- DONE
+		# determine the number of games that need to be played each week in order to reach the total number of games for each league -- DONE
+		# separate the teams based on league -- DONE
+		# for each week of the year:
+			# check if each league is playing during that week
+			# if the league is playing: 
+				# Pair up each of the teams in a league for each league 
+					# NOTE: we'll want to keep track of the initial pairings for round robin purposes ----- DONE
+				# Use round robin to generate enough sets of pairs so that the league meets the number of games needed for the week 
+				# for each pair: 
+				#     create an intervalTree with the availabilities of each team and store the list of overlapping intervals for that team
+				#     create an intervalTree with the overlapping availabilities of the pair and all venue availabilities
+							# we'll probably want a function for making the tree with venue availabilities because we'll likely need many copies of it
+				#     Store the list of overalapping intervals for that pair and the venues
+				# NOTE: if any pair don't have any viable overlaps (needs to be long enough for a whole game), 
+					# then regroup the teams (go to next round robin pairing and start over)
+
+				# use a greedy algorithm that schedules pairs starting with the pairs with the fewest viable overlaps
+				# create games for each pair this way and add the games to the game list
+				# Build an intervalTree as matches are scheduled
+				# NOTE: I'm not sure if this will be optimal, but I figured it's a fair guess
+				# check to make sure there are no conflicting games. 
+					# If there are, resolve them by keeping track of the game (maybe add the list of viable overlaps to games)
+					# and then selecting a different time slot from viable overlaps
+					# This will get tricky as more teams are scheduled, may need some tweaking
+		
+		
+		
+		'''
+		for each league in leagues:
+		|	get teams where leagueID = league.id
+		|	if teams < 2:
+		|	|	return 1
+		|	pairs = generatePairs()
+		|	for _ in league.numGames:
+		|	|	schedule = scheduleGame()
+		|	|	if !schedule:
+		|	|	|	return 2
+		|	|	games.append(new Game())
+		'''
+
+		# leaguesDict = {}
+
+
+		# intervalTrees = {}
+		# for venue in venues:
+		# 	intervalTrees[f"Venue{venue.id}"] = IntervalTree()
+		# for league in leagues:
+		# 	if league.teams.length < 2:
+		# 		return 1 # cannot schedule not enough teams
+			
+			
+		# 	for team in league.teams:
+
+
+
+
 		schedule_records = []
 		for game in games:
 			game.dump()
@@ -52,8 +238,9 @@ class Scheduler:
 			})
 			
 		schedule_df = pd.DataFrame(schedule_records)
-		schedule_df.to_csv(f"./data/{case}/schedule.csv", index=False)		
-		schedule_df.to_json(f"./data/{case}/schedule.json")
+		# SAM CHANGE
+		schedule_df.to_csv(f"../../data/{case}/schedule.csv", index=False)		
+		schedule_df.to_json(f"../../data/{case}/schedule.json")
 		
 		return 0
 	
