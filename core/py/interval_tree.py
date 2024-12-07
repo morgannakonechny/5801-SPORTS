@@ -50,6 +50,17 @@ class Interval:
         # The intervals overlap if they occur on the same day and week, and their time ranges intersect.
         return (self.day == other.day and self.week == other.week and
                 self.start < other.end and other.start < self.end)
+    
+    def get_overlap(self, other):
+        if (self.day == other.day and self.week == other.week and
+                self.start < other.end and other.start < self.end):
+            new_start = max(self.start, other.start)
+            new_end = max(self.end, other.end)
+            return Interval(new_start, new_end, self.day, self.week), (new_end - new_start)
+        return None, 0
+    
+    def duration(self):
+        return self.end - self.start
 
 
 class IntervalNode:

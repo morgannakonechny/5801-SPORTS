@@ -37,7 +37,8 @@ class Scheduler:
 			home[-1] = away[-1]
 			league["pairs"] = [home, newAway]		
 			
-	def samTemp(league):
+	@staticmethod
+	def rotatePairs(league):
 		home = league["pairs"][0]
 		away = league["pairs"][1]
 
@@ -103,12 +104,16 @@ class Scheduler:
 			league["gamesPlayed"] = 0
 
 			if len(league["teams"]) < 2: 
-				return 1	# cannot create schedule for a league with only team
+				# SAM: comment this back in
+				print("not enough teams!")
+				# return 1	# cannot create schedule for a league with only team
 			
 			# check that there are a valid number of weeks in the league
 			numWeeks = league["seasonEnd"] - league["seasonStart"] + 1
 			if numWeeks < 1:
-				return 1	# cannot create schedule for a league with 0 weeks, or start week later than end week
+				# SAM: comment this back in/out
+				print("not enough weeks!")
+				# return 1	# cannot create schedule for a league with 0 weeks, or start week later than end week
 			
 			# extract the number of games that should be played every week by a team to reach numberOfGames
 			league["gamesPerWeek"] = int((league["numberOfGames"] / numWeeks) + 0.5)
@@ -117,48 +122,63 @@ class Scheduler:
 
 		games = []
 		
-		# create an interval tree for every venue to help see overlap in scheduling
+		# these create an interval tree for each venue containing available times for that venue
 		interval_trees = []
 		for venue in venues:
-			interval_trees.append({f"{venue["venueId"]}": IntervalTree()})
+			schedule_tree = IntervalTree()
+			availability_tree = IntervalTree()
+			for week in range(1, 53):
+				for day in range(1, 8):
+					closed_until = Interval(0, ven[f"d{day}Start"], day, week)
+					closed_after = Interval(ven[f"d{day}End"], 23.5, day, week)
+					schedule_tree.insert(closed_until)
+					schedule_tree.insert(closed_after)
+					available = Interval(ven[f"d{day}Start"], ven[f"d{day}End"], day, week)
+					availability_tree.insert(available)
+			interval_trees.append({f"{venue["venueId"]}Sched": schedule_tree, f"{venue["venueId"]}Avail": availability_tree})
+
+		# each game should last 2 hours
+		game_duration = 2 
+		# schedule games for each league
+		for league in leagues:
+			# for each week in the league
+			for week in range(league["seasonStart"], league["seasonEnd"] + 1):
+				# for each game that should be scheduled in a week
+				for game_of_week in range(0, league["gamesPerWeek"]):
+					# schedule a game for each pair of teams	
+					homeTeams = league["pairs"][0]
+					awayTeams = league["pairs"][1]
+					# iterate through the pairs
+					for pair_idx in range(0, len(homeTeams)):
+						t1 = homeTeams[pair_idx]
+						t2 = awayTeams[pair_idx]
+						# try to schedule a game
+						# try each day
+						for day in range(1, 8):
+							# try each venue
+							for ven in venues:
+								# team 1 availability
+								t1_avail = Interval(t1[f"d{day}Start"], t1[f"d{day}End"], day, week)
+								# team 2 availability
+								t2_avail = Interval(t2[f"d{day}Start"], t2[f"d{day}End"], day, week)
+
+								# check for team availability overlap
+								# dur for duration
+								team_overlap, team_dur = t1_avail.get_overlap(t2_avail)
+								if team_overlap and team_dur >= game_duration:
+									# check for overlap with venue availability (need this to get possible intervals)
+									# need both because 
+									venue_overlap = interval_trees[f"{ven["venueId"]}Avail"].overlap(team_overlap)
+									# check that the overlap is long enough
+									for overlap in venue_overlap:
+										if overlap.duration() >= game_duration:
+											# create a game with the first game duration available
+											# insert this interval into the tree for the venue
+
+
+
+
 			
-
-		# iterate through each week
-		for i in range(1, 53):
-			playingLeagues = []
-			# find which leagues need to play this week
-			for league in leagues:
-				if i >= league["seasonStart"] and i <= league["seasonEnd"]:
-					playingLeagues.append(league)
-			# for each league that needs to play this week
-			for league in playingLeagues:
-				teamIntervalTrees = []
-				for i in range(league["gamesPerWeek"]):					
-					Scheduler.roundRobin(league)
-					# make an IntervalTree for those teams
-				
-			
-					
-			
-
-
-
-
-
-		#	for each week in the year:
-		#		create a list of all the leagues that are playing that week
-		# 		for all leagues playing that week
-		#			for game in numGamesPerWeek
-		#				rotate pairings
-		#				for pair in pairings
-		#					create an interval tree
-		#					find overlapping time for pair
-		#					find overlapping time for pair and venue
-		#					if found -> 
-
-
-
-
 
 
 		# start by extracting the team/venue/league data into the dataframes from the csv files -- DONE
