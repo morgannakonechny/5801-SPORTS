@@ -58,6 +58,59 @@ class Scheduler:
 		# update league["pairs"]
 		league["pairs"] = [newHome, newAway]
 
+	# schedule a game in a given week
+	@staticmethod
+	def schedule_game(team1, team2, venues, week, interval_trees, game_duration, season):
+		# check each day for availability
+		for day in range(1, 8):
+			# SAM CHANGE
+			print(f"Trying day {day}...")
+
+			# get each team's availability for that day
+			t1_avail = Interval(team1[f"d{day}Start"], team1[f"d{day}End"], day, week)
+			t2_avail = Interval(team2[f"d{day}Start"], team2[f"d{day}End"], day, week)
+
+			# check that they have overlapping availability that day and it is long enough for game_duration
+			team_overlap, team_overlap_duration = t1_avail.get_overlap(t2_avail)
+			if team_overlap and team_overlap_duration >= game_duration:
+				# SAM CHANGE
+				print(f"\tTeams have overlap for day {day}...")
+				# check each venue for availability
+				for venue in venues:
+					# SAM CHANGE
+					print(f"\tTrying venue {venue["venueId"]}...")
+					# get the list of overlapping intervals with the venue (the availability for that day)
+					venue_overlap = interval_trees[f"{venue['venueId']}Avail"].overlap(team_overlap)
+					# if the team availability aligns with the venues hours for that day
+					if venue_overlap:
+						# SAM CHANGE
+						print(f"\t\tVenue has overlap for day {day}...")
+						# find a timeslot that doesn't overlap with any other matches at the given venue
+						game_start = team_overlap.start
+						scheduled = False
+						while (not scheduled and ((game_start + game_duration) <= team_overlap.end)):
+							# interval for the game
+							cur_slot = Interval(game_start, game_start + game_duration, day, week)
+							# check that the slot doesn't intersect with any scheduled games
+							slot_overlap = interval_trees[f"{venue["venueId"]}Sched"].overlap(cur_slot)
+							# can schedule the game
+							if not slot_overlap:
+								# SAM CHANGE
+								print(f"\t\tFOUND TIME SLOT: {game_start}-{game_start+game_duration}")
+								# add interval to venue's interval tree
+								interval_trees[f"{venue['venueId']}Sched"].insert(cur_slot)
+								# set scheduled to true
+								scheduled = True
+								# return the game?
+								return Game(team1["teamId"], team2["teamId"], week, day, season, game_start, game_start+game_duration, venue["venueId"])
+							else:
+								game_start += 0.5
+		# no availability for the teams at any venue
+		return None
+
+
+						
+
 				
 	@staticmethod
 	def run(case: str = "case1") -> int:
@@ -103,137 +156,71 @@ class Scheduler:
 			league["teams"] = league_teams
 			league["gamesPlayed"] = 0
 
-			if len(league["teams"]) < 2: 
-				# SAM: comment this back in
-				print("not enough teams!")
-				# return 1	# cannot create schedule for a league with only team
-			
-			# check that there are a valid number of weeks in the league
 			numWeeks = league["seasonEnd"] - league["seasonStart"] + 1
-			if numWeeks < 1:
-				# SAM: comment this back in/out
-				print("not enough weeks!")
-				# return 1	# cannot create schedule for a league with 0 weeks, or start week later than end week
-			
-			# extract the number of games that should be played every week by a team to reach numberOfGames
-			league["gamesPerWeek"] = int((league["numberOfGames"] / numWeeks) + 0.5)
-			# create the initial groupings of teams
-			Scheduler.createPairs(league)
+
+			# check that there are at least 2 teams in the league, there is at least 1 week in the season, and there is at least 1 game
+			if (len(league["teams"]) >= 2 and numWeeks >= 1 and league["numberOfGames"] > 0):
+				league["valid"] = True
+				
+				# extract the number of games that should be played every week by a team to reach numberOfGames
+				league["gamesPerWeek"] = int((league["numberOfGames"] / numWeeks) + 0.5)
+				# create the initial groupings of teams
+				Scheduler.createPairs(league)
+			else:
+				league["valid"] = False
 
 		games = []
 		
 		# these create an interval tree for each venue containing available times for that venue
-		interval_trees = []
+		interval_trees = {}
 		for venue in venues:
 			schedule_tree = IntervalTree()
 			availability_tree = IntervalTree()
 			for week in range(1, 53):
 				for day in range(1, 8):
-					closed_until = Interval(0, ven[f"d{day}Start"], day, week)
-					closed_after = Interval(ven[f"d{day}End"], 23.5, day, week)
-					schedule_tree.insert(closed_until)
-					schedule_tree.insert(closed_after)
-					available = Interval(ven[f"d{day}Start"], ven[f"d{day}End"], day, week)
+					available = Interval(venue[f"d{day}Start"], venue[f"d{day}End"], day, week)
 					availability_tree.insert(available)
-			interval_trees.append({f"{venue["venueId"]}Sched": schedule_tree, f"{venue["venueId"]}Avail": availability_tree})
+			interval_trees[f"{venue['venueId']}Sched"] = schedule_tree
+			interval_trees[f"{venue['venueId']}Avail"] = availability_tree
 
 		# each game should last 2 hours
 		game_duration = 2 
 		# schedule games for each league
 		for league in leagues:
-			# for each week in the league
-			for week in range(league["seasonStart"], league["seasonEnd"] + 1):
-				# for each game that should be scheduled in a week
-				for game_of_week in range(0, league["gamesPerWeek"]):
-					# schedule a game for each pair of teams	
-					homeTeams = league["pairs"][0]
-					awayTeams = league["pairs"][1]
-					# iterate through the pairs
-					for pair_idx in range(0, len(homeTeams)):
-						t1 = homeTeams[pair_idx]
-						t2 = awayTeams[pair_idx]
-						# try to schedule a game
-						# try each day
-						for day in range(1, 8):
-							# try each venue
-							for ven in venues:
-								# team 1 availability
-								t1_avail = Interval(t1[f"d{day}Start"], t1[f"d{day}End"], day, week)
-								# team 2 availability
-								t2_avail = Interval(t2[f"d{day}Start"], t2[f"d{day}End"], day, week)
-
-								# check for team availability overlap
-								# dur for duration
-								team_overlap, team_dur = t1_avail.get_overlap(t2_avail)
-								if team_overlap and team_dur >= game_duration:
-									# check for overlap with venue availability (need this to get possible intervals)
-									# need both because 
-									venue_overlap = interval_trees[f"{ven["venueId"]}Avail"].overlap(team_overlap)
-									# check that the overlap is long enough
-									for overlap in venue_overlap:
-										if overlap.duration() >= game_duration:
-											# create a game with the first game duration available
-											# insert this interval into the tree for the venue
-
-
-
-
-			
-
-
-		# start by extracting the team/venue/league data into the dataframes from the csv files -- DONE
-		# determine the number of games that need to be played each week in order to reach the total number of games for each league -- DONE
-		# separate the teams based on league -- DONE
-		# for each week of the year:
-			# check if each league is playing during that week
-			# if the league is playing: 
-				# Pair up each of the teams in a league for each league 
-					# NOTE: we'll want to keep track of the initial pairings for round robin purposes ----- DONE
-				# Use round robin to generate enough sets of pairs so that the league meets the number of games needed for the week 
-				# for each pair: 
-				#     create an intervalTree with the availabilities of each team and store the list of overlapping intervals for that team
-				#     create an intervalTree with the overlapping availabilities of the pair and all venue availabilities
-							# we'll probably want a function for making the tree with venue availabilities because we'll likely need many copies of it
-				#     Store the list of overalapping intervals for that pair and the venues
-				# NOTE: if any pair don't have any viable overlaps (needs to be long enough for a whole game), 
-					# then regroup the teams (go to next round robin pairing and start over)
-
-				# use a greedy algorithm that schedules pairs starting with the pairs with the fewest viable overlaps
-				# create games for each pair this way and add the games to the game list
-				# Build an intervalTree as matches are scheduled
-				# NOTE: I'm not sure if this will be optimal, but I figured it's a fair guess
-				# check to make sure there are no conflicting games. 
-					# If there are, resolve them by keeping track of the game (maybe add the list of viable overlaps to games)
-					# and then selecting a different time slot from viable overlaps
-					# This will get tricky as more teams are scheduled, may need some tweaking
+			if league["valid"]:
+				# for each week in the league
+				for week in range(league["seasonStart"], league["seasonEnd"]):
+					# for each game that should be scheduled in a week
+					for game_of_week in range(0, league["gamesPerWeek"]):
+						# schedule a game for each pair of teams	
+						homeTeams = league["pairs"][0]
+						awayTeams = league["pairs"][1]
+						# iterate through the pairs
+						for pair_idx in range(0, len(homeTeams)):
+							t1 = homeTeams[pair_idx]
+							t2 = awayTeams[pair_idx]
+							# attempt to schedule a game
+							if (t1 != "bye" and t2 != "bye"):
+								game = Scheduler.schedule_game(t1, t2, venues, week, interval_trees, game_duration, league["season"])
+								# if successful, add the game to the list of games
+								if game:
+									games.append(game)
+						# rotate the teams
+						Scheduler.rotatePairs(league)
 		
 		
-		
-		'''
-		for each league in leagues:
-		|	get teams where leagueID = league.id
-		|	if teams < 2:
-		|	|	return 1
-		|	pairs = generatePairs()
-		|	for _ in league.numGames:
-		|	|	schedule = scheduleGame()
-		|	|	if !schedule:
-		|	|	|	return 2
-		|	|	games.append(new Game())
-		'''
-
-		# leaguesDict = {}
-
-
-		# intervalTrees = {}
-		# for venue in venues:
-		# 	intervalTrees[f"Venue{venue.id}"] = IntervalTree()
-		# for league in leagues:
-		# 	if league.teams.length < 2:
-		# 		return 1 # cannot schedule not enough teams
-			
-			
-		# 	for team in league.teams:
+		# '''
+		# for each league in leagues:
+		# |	get teams where leagueID = league.id
+		# |	if teams < 2:
+		# |	|	return 1
+		# |	pairs = generatePairs()
+		# |	for _ in league.numGames:
+		# |	|	schedule = schedule_game()
+		# |	|	if !schedule:
+		# |	|	|	return 2
+		# |	|	games.append(new Game())
+		# '''
 
 
 

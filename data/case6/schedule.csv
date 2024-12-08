@@ -1,1 +1,753 @@
-
+team1Name,team2Name,week,day,start,end,season,league,location
+Raystad Commandos,Ramirezmouth Dolphins,16,1,11.0,13.0,2024,Platinum League,Lake Dawn Hub Field #1
+Shawnport Bucaneers,North Charles Sabres,16,3,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Ramirezland Pirates,Smithbury Chiefs,16,1,13.0,15.0,2024,Platinum League,Lake Dawn Hub Field #1
+North Justinmouth Hornets,Pattyport Hornets,16,1,4.5,6.5,2024,Platinum League,Lake Dawn Hub Field #1
+Parkerstad Dolphins,Underwoodfurt Celtics,16,1,7.5,9.5,2024,Platinum League,Lake Dawn Hub Field #1
+New Dannyfort Mavericks,South Kyle Westerners,16,1,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Regina Wildcats,New Julie Bears,16,1,3.5,5.5,2024,Platinum League,Wesleybury Place Field #1
+West Brittneystad Chiefs,North Donaldport Americans,16,1,12.5,14.5,2024,Platinum League,Wesleybury Place Field #1
+Christinaton Robbers,Lake Natalie Wildcats,16,1,16.5,18.5,2024,Platinum League,North Christine Complex Field #1
+Hillborough Mavericks,Port Gordontown Mavericks,16,1,15.0,17.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Lake Melissaborough Sabres,16,1,19.0,21.0,2024,Platinum League,North Christine Complex Field #1
+Tinashire Vikings,East Kimberlyshire Westerners,16,1,17.0,19.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,Shawnport Bucaneers,16,2,14.0,16.0,2024,Platinum League,Lake Dawn Hub Field #1
+Ramirezland Pirates,Ramirezmouth Dolphins,16,1,14.5,16.5,2024,Platinum League,Wesleybury Place Field #1
+North Justinmouth Hornets,North Charles Sabres,16,1,17.5,19.5,2024,Platinum League,North Christine Complex Field #2
+Parkerstad Dolphins,Smithbury Chiefs,16,1,16.5,18.5,2024,Platinum League,Wesleybury Place Field #1
+New Dannyfort Mavericks,Pattyport Hornets,16,1,19.0,21.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Regina Wildcats,Underwoodfurt Celtics,16,2,8.0,10.0,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,South Kyle Westerners,16,1,10.0,12.0,2024,Platinum League,Wesleybury Place Field #2
+Christinaton Robbers,New Julie Bears,16,2,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,North Donaldport Americans,16,1,21.0,23.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Lake Natalie Wildcats,16,1,19.5,21.5,2024,Platinum League,North Christine Complex Field #2
+Tinashire Vikings,Port Gordontown Mavericks,16,1,7.0,9.0,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Lake Melissaborough Sabres,16,2,12.0,14.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,Ramirezland Pirates,17,1,8.0,10.0,2024,Platinum League,Lake Dawn Hub Field #1
+North Justinmouth Hornets,Shawnport Bucaneers,17,1,13.0,15.0,2024,Platinum League,Lake Dawn Hub Field #1
+Parkerstad Dolphins,Ramirezmouth Dolphins,17,1,11.0,13.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Dannyfort Mavericks,North Charles Sabres,17,3,7.0,9.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Regina Wildcats,Smithbury Chiefs,17,2,13.5,15.5,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,Pattyport Hornets,17,1,15.0,17.0,2024,Platinum League,Lake Dawn Hub Field #1
+Christinaton Robbers,Underwoodfurt Celtics,17,1,17.0,19.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,South Kyle Westerners,17,1,3.0,5.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,New Julie Bears,17,2,11.5,13.5,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,North Donaldport Americans,17,1,12.5,14.5,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Lake Natalie Wildcats,17,1,16.5,18.5,2024,Platinum League,North Christine Complex Field #1
+Lake Melissaborough Sabres,Port Gordontown Mavericks,17,2,8.5,10.5,2024,Platinum League,Wesleybury Place Field #1
+Raystad Commandos,North Justinmouth Hornets,17,1,5.0,7.0,2024,Platinum League,Lake Dawn Hub Field #1
+Parkerstad Dolphins,Ramirezland Pirates,17,1,8.0,10.0,2024,Platinum League,Wesleybury Place Field #1
+New Dannyfort Mavericks,Shawnport Bucaneers,17,2,15.5,17.5,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Regina Wildcats,Ramirezmouth Dolphins,17,2,17.5,19.5,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,North Charles Sabres,17,3,1.5,3.5,2024,Platinum League,Lake Dawn Hub Field #1
+Christinaton Robbers,Smithbury Chiefs,17,4,5.0,7.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,Pattyport Hornets,17,1,19.0,21.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Underwoodfurt Celtics,17,1,21.0,23.0,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,South Kyle Westerners,17,1,3.0,5.0,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,New Julie Bears,17,1,5.5,7.5,2024,Platinum League,Wesleybury Place Field #1
+Lake Melissaborough Sabres,North Donaldport Americans,17,3,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Port Gordontown Mavericks,Lake Natalie Wildcats,17,4,7.0,9.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,Parkerstad Dolphins,18,1,7.0,9.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Dannyfort Mavericks,North Justinmouth Hornets,18,1,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Regina Wildcats,Ramirezland Pirates,18,2,6.0,8.0,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,Shawnport Bucaneers,18,1,13.0,15.0,2024,Platinum League,Lake Dawn Hub Field #1
+Christinaton Robbers,Ramirezmouth Dolphins,18,1,15.0,17.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,North Charles Sabres,18,1,17.5,19.5,2024,Platinum League,North Christine Complex Field #1
+Savagechester Grizzlies,Smithbury Chiefs,18,1,17.0,19.0,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,Pattyport Hornets,18,1,4.5,6.5,2024,Platinum League,Lake Dawn Hub Field #1
+East Kimberlyshire Westerners,Underwoodfurt Celtics,18,1,19.0,21.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Melissaborough Sabres,South Kyle Westerners,18,3,2.0,4.0,2024,Platinum League,Lake Dawn Hub Field #1
+Port Gordontown Mavericks,New Julie Bears,18,1,7.0,9.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,North Donaldport Americans,18,2,15.0,17.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,New Dannyfort Mavericks,18,1,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Regina Wildcats,Parkerstad Dolphins,18,2,17.0,19.0,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,North Justinmouth Hornets,18,1,12.0,14.0,2024,Platinum League,Wesleybury Place Field #1
+Christinaton Robbers,Ramirezland Pirates,18,1,14.0,16.0,2024,Platinum League,North Christine Complex Field #1
+Hillborough Mavericks,Shawnport Bucaneers,18,1,21.0,23.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Ramirezmouth Dolphins,18,1,14.0,16.0,2024,Platinum League,Wesleybury Place Field #1
+Tinashire Vikings,North Charles Sabres,18,3,11.0,13.0,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Smithbury Chiefs,18,1,16.0,18.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Melissaborough Sabres,Pattyport Hornets,18,1,19.5,21.5,2024,Platinum League,North Christine Complex Field #1
+Port Gordontown Mavericks,Underwoodfurt Celtics,18,1,18.0,20.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,South Kyle Westerners,18,4,9.0,11.0,2024,Platinum League,Lake Dawn Hub Field #1
+North Donaldport Americans,New Julie Bears,18,2,19.0,21.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,Lake Regina Wildcats,19,1,4.5,6.5,2024,Platinum League,Lake Dawn Hub Field #1
+West Brittneystad Chiefs,New Dannyfort Mavericks,19,1,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Christinaton Robbers,Parkerstad Dolphins,19,1,14.0,16.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,North Justinmouth Hornets,19,1,6.5,8.5,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Ramirezland Pirates,19,1,12.0,14.0,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,Shawnport Bucaneers,19,1,16.0,18.0,2024,Platinum League,Lake Dawn Hub Field #1
+East Kimberlyshire Westerners,Ramirezmouth Dolphins,19,1,18.0,20.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Melissaborough Sabres,North Charles Sabres,19,3,2.0,4.0,2024,Platinum League,Lake Dawn Hub Field #1
+Port Gordontown Mavericks,Smithbury Chiefs,19,3,16.5,18.5,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,Pattyport Hornets,19,1,16.5,18.5,2024,Platinum League,North Christine Complex Field #1
+North Donaldport Americans,Underwoodfurt Celtics,19,1,20.0,22.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Julie Bears,South Kyle Westerners,19,1,3.0,5.0,2024,Platinum League,Wesleybury Place Field #1
+Raystad Commandos,West Brittneystad Chiefs,19,1,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Christinaton Robbers,Lake Regina Wildcats,19,2,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Hillborough Mavericks,New Dannyfort Mavericks,19,1,12.0,14.0,2024,Platinum League,Wesleybury Place Field #1
+Savagechester Grizzlies,Parkerstad Dolphins,19,1,14.0,16.0,2024,Platinum League,Wesleybury Place Field #1
+Tinashire Vikings,North Justinmouth Hornets,19,1,5.0,7.0,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Ramirezland Pirates,19,1,8.0,10.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Melissaborough Sabres,Shawnport Bucaneers,19,2,12.0,14.0,2024,Platinum League,Lake Dawn Hub Field #1
+Port Gordontown Mavericks,Ramirezmouth Dolphins,19,5,11.0,13.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,North Charles Sabres,19,1,18.5,20.5,2024,Platinum League,North Christine Complex Field #1
+North Donaldport Americans,Smithbury Chiefs,19,1,12.5,14.5,2024,Platinum League,Wesleybury Place Field #2
+New Julie Bears,Pattyport Hornets,19,1,16.0,18.0,2024,Platinum League,Wesleybury Place Field #1
+South Kyle Westerners,Underwoodfurt Celtics,19,1,18.0,20.0,2024,Platinum League,Wesleybury Place Field #1
+Raystad Commandos,Christinaton Robbers,20,3,7.0,9.0,2024,Platinum League,Wesleybury Place Field #1
+Hillborough Mavericks,West Brittneystad Chiefs,20,1,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Lake Regina Wildcats,20,2,11.5,13.5,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,New Dannyfort Mavericks,20,1,12.0,14.0,2024,Platinum League,Lake Dawn Hub Field #1
+East Kimberlyshire Westerners,Parkerstad Dolphins,20,1,7.0,9.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Melissaborough Sabres,North Justinmouth Hornets,20,1,19.0,21.0,2024,Platinum League,North Christine Complex Field #1
+Port Gordontown Mavericks,Ramirezland Pirates,20,1,8.0,10.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,Shawnport Bucaneers,20,1,16.5,18.5,2024,Platinum League,North Christine Complex Field #1
+North Donaldport Americans,Ramirezmouth Dolphins,20,1,14.0,16.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Julie Bears,North Charles Sabres,20,4,11.5,13.5,2024,Platinum League,Lake Jennifermouth Dome Field #1
+South Kyle Westerners,Smithbury Chiefs,20,1,10.0,12.0,2024,Platinum League,Wesleybury Place Field #1
+Underwoodfurt Celtics,Pattyport Hornets,20,1,16.0,18.0,2024,Platinum League,Lake Dawn Hub Field #1
+Raystad Commandos,Hillborough Mavericks,20,1,4.5,6.5,2024,Platinum League,Lake Dawn Hub Field #1
+Savagechester Grizzlies,Christinaton Robbers,20,1,18.0,20.0,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,West Brittneystad Chiefs,20,1,12.0,14.0,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Lake Regina Wildcats,20,1,5.5,7.5,2024,Platinum League,Wesleybury Place Field #1
+Lake Melissaborough Sabres,New Dannyfort Mavericks,20,2,13.5,15.5,2024,Platinum League,Lake Dawn Hub Field #1
+Port Gordontown Mavericks,Parkerstad Dolphins,20,1,14.0,16.0,2024,Platinum League,Wesleybury Place Field #1
+Lake Natalie Wildcats,North Justinmouth Hornets,20,1,16.5,18.5,2024,Platinum League,North Christine Complex Field #2
+North Donaldport Americans,Ramirezland Pirates,20,1,12.5,14.5,2024,Platinum League,Wesleybury Place Field #2
+New Julie Bears,Shawnport Bucaneers,20,2,9.0,11.0,2024,Platinum League,Lake Dawn Hub Field #1
+South Kyle Westerners,Ramirezmouth Dolphins,20,1,16.0,18.0,2024,Platinum League,Wesleybury Place Field #1
+Underwoodfurt Celtics,North Charles Sabres,20,1,21.0,23.0,2024,Platinum League,North Christine Complex Field #1
+Pattyport Hornets,Smithbury Chiefs,20,1,18.0,20.0,2024,Platinum League,Wesleybury Place Field #1
+Raystad Commandos,Savagechester Grizzlies,21,1,8.5,10.5,2024,Platinum League,Lake Dawn Hub Field #1
+Tinashire Vikings,Hillborough Mavericks,21,1,3.0,5.0,2024,Platinum League,Lake Dawn Hub Field #1
+East Kimberlyshire Westerners,Christinaton Robbers,21,1,14.0,16.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Melissaborough Sabres,West Brittneystad Chiefs,21,3,2.0,4.0,2024,Platinum League,Lake Dawn Hub Field #1
+Port Gordontown Mavericks,Lake Regina Wildcats,21,2,6.0,8.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Natalie Wildcats,New Dannyfort Mavericks,21,2,13.0,15.0,2024,Platinum League,Lake Dawn Hub Field #1
+North Donaldport Americans,Parkerstad Dolphins,21,1,16.0,18.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Julie Bears,North Justinmouth Hornets,21,1,5.0,7.0,2024,Platinum League,Lake Dawn Hub Field #1
+South Kyle Westerners,Ramirezland Pirates,21,1,10.5,12.5,2024,Platinum League,Lake Dawn Hub Field #1
+Underwoodfurt Celtics,Shawnport Bucaneers,21,1,18.0,20.0,2024,Platinum League,Lake Dawn Hub Field #1
+Pattyport Hornets,Ramirezmouth Dolphins,21,1,11.0,13.0,2024,Platinum League,Wesleybury Place Field #1
+Smithbury Chiefs,North Charles Sabres,21,3,16.5,18.5,2024,Platinum League,Wesleybury Place Field #1
+Raystad Commandos,Tinashire Vikings,21,1,4.5,6.5,2024,Platinum League,Wesleybury Place Field #1
+East Kimberlyshire Westerners,Savagechester Grizzlies,21,1,20.0,22.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Melissaborough Sabres,Hillborough Mavericks,21,1,19.0,21.0,2024,Platinum League,North Christine Complex Field #1
+Port Gordontown Mavericks,Christinaton Robbers,21,2,10.0,12.0,2024,Platinum League,Lake Dawn Hub Field #1
+Lake Natalie Wildcats,West Brittneystad Chiefs,21,3,4.5,6.5,2024,Platinum League,Wesleybury Place Field #1
+North Donaldport Americans,Lake Regina Wildcats,21,2,15.0,17.0,2024,Platinum League,Lake Dawn Hub Field #1
+New Julie Bears,New Dannyfort Mavericks,21,2,17.0,19.0,2024,Platinum League,Lake Dawn Hub Field #1
+South Kyle Westerners,Parkerstad Dolphins,21,1,7.0,9.0,2024,Platinum League,Wesleybury Place Field #1
+Underwoodfurt Celtics,North Justinmouth Hornets,21,1,9.0,11.0,2024,Platinum League,Wesleybury Place Field #1
+Pattyport Hornets,Ramirezland Pirates,21,1,13.0,15.0,2024,Platinum League,Wesleybury Place Field #1
+Smithbury Chiefs,Shawnport Bucaneers,21,1,15.0,17.0,2024,Platinum League,Wesleybury Place Field #1
+North Charles Sabres,Ramirezmouth Dolphins,21,1,17.5,19.5,2024,Platinum League,North Christine Complex Field #2
+New Douglas Wildcats,Vargasside Sabres,13,1,5.0,7.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Bryantmouth Sabres,Port Laura Raptors,13,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Sharon Bulls,Port Connieland Wildcats,13,2,10.5,12.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Lake Katelynmouth Wildcats,East Jennaview Jacks,13,2,7.5,9.5,2024,Obsidian League,Lake Dawn Hub Field #1
+West Jonathanville Sabres,Lake Taylor Jacks,13,1,7.0,9.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Jacobchester Hornets,Port Terriville Bears,13,1,11.5,13.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Jamesstad Pirates,Charlesfurt Bulls,13,1,13.5,15.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Millerburgh Sox,West Charles Pirates,13,1,15.5,17.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Kingberg Eagles,Singhton Celtics,13,3,2.0,4.0,2024,Obsidian League,Lake Dawn Hub Field #1
+South Charles Westerners,Robbinsland Sox,13,1,9.5,11.5,2024,Obsidian League,Wesleybury Place Field #1
+New Ginaborough Westerners,Audreybury Eagles,13,1,17.5,19.5,2024,Obsidian League,Lake Dawn Hub Field #1
+New Jerryberg Eagles,North Rita Jacks,13,5,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+Michaelberg Mavericks,East Michael Americans,13,1,17.5,19.5,2024,Obsidian League,North Christine Complex Field #1
+Crystalshire Rappers,New Meghanborough Celtics,13,1,2.5,4.5,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Schwartzmouth Americans,13,3,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+East Matthewburgh Bobcats,Theodorehaven Sox,13,1,1.0,3.0,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,Bryantmouth Sabres,14,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Sharon Bulls,Vargasside Sabres,14,1,6.5,8.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Lake Katelynmouth Wildcats,Port Laura Raptors,14,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Jonathanville Sabres,Port Connieland Wildcats,14,5,10.0,12.0,2024,Obsidian League,Wesleybury Place Field #1
+Jacobchester Hornets,East Jennaview Jacks,14,1,11.0,13.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Jamesstad Pirates,Lake Taylor Jacks,14,1,3.0,5.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Millerburgh Sox,Port Terriville Bears,14,2,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Kingberg Eagles,Charlesfurt Bulls,14,1,13.0,15.0,2024,Obsidian League,Lake Dawn Hub Field #1
+South Charles Westerners,West Charles Pirates,14,1,15.0,17.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Ginaborough Westerners,Singhton Celtics,14,1,17.0,19.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Jerryberg Eagles,Robbinsland Sox,14,2,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Michaelberg Mavericks,Audreybury Eagles,14,1,17.5,19.5,2024,Obsidian League,North Christine Complex Field #1
+Crystalshire Rappers,North Rita Jacks,14,1,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+North Heathershire Bobcats,East Michael Americans,14,1,19.5,21.5,2024,Obsidian League,North Christine Complex Field #1
+East Matthewburgh Bobcats,New Meghanborough Celtics,14,1,2.5,4.5,2024,Obsidian League,Wesleybury Place Field #1
+Theodorehaven Sox,Schwartzmouth Americans,14,1,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #2
+New Douglas Wildcats,New Sharon Bulls,15,1,6.5,8.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Lake Katelynmouth Wildcats,Bryantmouth Sabres,15,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Jonathanville Sabres,Vargasside Sabres,15,1,11.0,13.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Jacobchester Hornets,Port Laura Raptors,15,1,13.0,15.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Jamesstad Pirates,Port Connieland Wildcats,15,3,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+Millerburgh Sox,East Jennaview Jacks,15,2,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Kingberg Eagles,Lake Taylor Jacks,15,1,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+South Charles Westerners,Port Terriville Bears,15,1,15.0,17.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Ginaborough Westerners,Charlesfurt Bulls,15,1,17.0,19.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Jerryberg Eagles,West Charles Pirates,15,1,19.0,21.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Michaelberg Mavericks,Singhton Celtics,15,2,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Robbinsland Sox,15,1,9.5,11.5,2024,Obsidian League,Wesleybury Place Field #1
+North Heathershire Bobcats,Audreybury Eagles,15,1,16.0,18.0,2024,Obsidian League,North Christine Complex Field #1
+East Matthewburgh Bobcats,North Rita Jacks,15,5,10.5,12.5,2024,Obsidian League,Wesleybury Place Field #1
+Theodorehaven Sox,East Michael Americans,15,1,21.0,23.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,New Meghanborough Celtics,15,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,Lake Katelynmouth Wildcats,16,1,12.0,14.0,2024,Obsidian League,Wesleybury Place Field #2
+West Jonathanville Sabres,New Sharon Bulls,16,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #2
+Jacobchester Hornets,Bryantmouth Sabres,16,1,4.0,6.0,2024,Obsidian League,Wesleybury Place Field #2
+Port Jamesstad Pirates,Vargasside Sabres,16,1,14.0,16.0,2024,Obsidian League,Wesleybury Place Field #2
+Millerburgh Sox,Port Laura Raptors,16,1,18.5,20.5,2024,Obsidian League,Wesleybury Place Field #1
+Kingberg Eagles,Port Connieland Wildcats,16,3,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+South Charles Westerners,East Jennaview Jacks,16,1,16.0,18.0,2024,Obsidian League,Wesleybury Place Field #2
+New Ginaborough Westerners,Lake Taylor Jacks,16,2,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Jerryberg Eagles,Port Terriville Bears,16,1,12.0,14.0,2024,Obsidian League,North Christine Complex Field #1
+Michaelberg Mavericks,Charlesfurt Bulls,16,1,17.5,19.5,2024,Obsidian League,North Christine Complex Field #3
+Crystalshire Rappers,West Charles Pirates,16,1,18.0,20.0,2024,Obsidian League,Wesleybury Place Field #2
+North Heathershire Bobcats,Singhton Celtics,16,1,16.0,18.0,2024,Obsidian League,West Anthonyhaven Facility Field #1
+East Matthewburgh Bobcats,Robbinsland Sox,16,2,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Audreybury Eagles,16,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,North Rita Jacks,16,3,14.5,16.5,2024,Obsidian League,Wesleybury Place Field #1
+New Meghanborough Celtics,East Michael Americans,16,1,20.5,22.5,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,West Jonathanville Sabres,17,1,10.0,12.0,2024,Obsidian League,Wesleybury Place Field #1
+Jacobchester Hornets,Lake Katelynmouth Wildcats,17,1,14.5,16.5,2024,Obsidian League,Wesleybury Place Field #1
+Port Jamesstad Pirates,New Sharon Bulls,17,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #2
+Millerburgh Sox,Bryantmouth Sabres,17,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #2
+Kingberg Eagles,Vargasside Sabres,17,1,8.5,10.5,2024,Obsidian League,Wesleybury Place Field #2
+South Charles Westerners,Port Laura Raptors,17,1,16.5,18.5,2024,Obsidian League,Wesleybury Place Field #1
+New Ginaborough Westerners,Port Connieland Wildcats,17,2,12.5,14.5,2024,Obsidian League,Wesleybury Place Field #1
+New Jerryberg Eagles,East Jennaview Jacks,17,3,19.0,21.0,2024,Obsidian League,North Christine Complex Field #1
+Michaelberg Mavericks,Lake Taylor Jacks,17,2,6.5,8.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Port Terriville Bears,17,2,19.5,21.5,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Charlesfurt Bulls,17,1,16.0,18.0,2024,Obsidian League,North Christine Complex Field #2
+East Matthewburgh Bobcats,West Charles Pirates,17,1,18.5,20.5,2024,Obsidian League,Wesleybury Place Field #1
+Theodorehaven Sox,Singhton Celtics,17,1,13.5,15.5,2024,Obsidian League,Wesleybury Place Field #2
+Schwartzmouth Americans,Robbinsland Sox,17,2,0.5,2.5,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,Audreybury Eagles,17,1,2.5,4.5,2024,Obsidian League,Wesleybury Place Field #2
+East Michael Americans,North Rita Jacks,17,1,20.5,22.5,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,Jacobchester Hornets,18,1,4.0,6.0,2024,Obsidian League,Wesleybury Place Field #1
+Port Jamesstad Pirates,West Jonathanville Sabres,18,1,4.5,6.5,2024,Obsidian League,Wesleybury Place Field #2
+Millerburgh Sox,Lake Katelynmouth Wildcats,18,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #2
+Kingberg Eagles,New Sharon Bulls,18,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #2
+South Charles Westerners,Bryantmouth Sabres,18,1,8.5,10.5,2024,Obsidian League,Wesleybury Place Field #2
+New Ginaborough Westerners,Vargasside Sabres,18,1,15.5,17.5,2024,Obsidian League,North Christine Complex Field #2
+New Jerryberg Eagles,Port Laura Raptors,18,1,13.5,15.5,2024,Obsidian League,Wesleybury Place Field #2
+Michaelberg Mavericks,Port Connieland Wildcats,18,2,10.5,12.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,East Jennaview Jacks,18,1,7.0,9.0,2024,Obsidian League,West Anthonyhaven Facility Field #1
+North Heathershire Bobcats,Lake Taylor Jacks,18,2,12.5,14.5,2024,Obsidian League,Lake Dawn Hub Field #1
+East Matthewburgh Bobcats,Port Terriville Bears,18,2,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+Theodorehaven Sox,Charlesfurt Bulls,18,1,15.5,17.5,2024,Obsidian League,Wesleybury Place Field #2
+Schwartzmouth Americans,West Charles Pirates,18,1,17.5,19.5,2024,Obsidian League,Wesleybury Place Field #2
+New Meghanborough Celtics,Singhton Celtics,18,1,10.0,12.0,2024,Obsidian League,North Christine Complex Field #1
+East Michael Americans,Robbinsland Sox,18,1,20.0,22.0,2024,Obsidian League,Wesleybury Place Field #1
+North Rita Jacks,Audreybury Eagles,18,1,19.5,21.5,2024,Obsidian League,Wesleybury Place Field #2
+New Douglas Wildcats,Port Jamesstad Pirates,19,1,2.5,4.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Millerburgh Sox,Jacobchester Hornets,19,1,14.5,16.5,2024,Obsidian League,Wesleybury Place Field #2
+Kingberg Eagles,West Jonathanville Sabres,19,1,4.5,6.5,2024,Obsidian League,Wesleybury Place Field #2
+South Charles Westerners,Lake Katelynmouth Wildcats,19,1,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #2
+New Ginaborough Westerners,New Sharon Bulls,19,2,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Jerryberg Eagles,Bryantmouth Sabres,19,1,12.0,14.0,2024,Obsidian League,North Christine Complex Field #1
+Michaelberg Mavericks,Vargasside Sabres,19,2,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Port Laura Raptors,19,1,16.5,18.5,2024,Obsidian League,Wesleybury Place Field #2
+North Heathershire Bobcats,Port Connieland Wildcats,19,2,10.5,12.5,2024,Obsidian League,Wesleybury Place Field #1
+East Matthewburgh Bobcats,East Jennaview Jacks,19,1,7.0,9.0,2024,Obsidian League,Wesleybury Place Field #2
+Theodorehaven Sox,Lake Taylor Jacks,19,1,1.0,3.0,2024,Obsidian League,Wesleybury Place Field #1
+Schwartzmouth Americans,Port Terriville Bears,19,5,4.5,6.5,2024,Obsidian League,Wesleybury Place Field #1
+New Meghanborough Celtics,Charlesfurt Bulls,19,1,9.0,11.0,2024,Obsidian League,North Christine Complex Field #1
+East Michael Americans,West Charles Pirates,19,1,20.0,22.0,2024,Obsidian League,Wesleybury Place Field #1
+North Rita Jacks,Singhton Celtics,19,2,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,Robbinsland Sox,19,1,18.5,20.5,2024,Obsidian League,Wesleybury Place Field #2
+New Douglas Wildcats,Millerburgh Sox,20,2,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+Kingberg Eagles,Port Jamesstad Pirates,20,1,4.5,6.5,2024,Obsidian League,Wesleybury Place Field #2
+South Charles Westerners,Jacobchester Hornets,20,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #2
+New Ginaborough Westerners,West Jonathanville Sabres,20,3,5.0,7.0,2024,Obsidian League,Wesleybury Place Field #1
+New Jerryberg Eagles,Lake Katelynmouth Wildcats,20,1,14.5,16.5,2024,Obsidian League,Wesleybury Place Field #2
+Michaelberg Mavericks,New Sharon Bulls,20,2,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Bryantmouth Sabres,20,1,2.0,4.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Vargasside Sabres,20,1,16.0,18.0,2024,Obsidian League,North Christine Complex Field #3
+East Matthewburgh Bobcats,Port Laura Raptors,20,3,2.0,4.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Port Connieland Wildcats,20,3,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+Schwartzmouth Americans,East Jennaview Jacks,20,3,11.0,13.0,2024,Obsidian League,Wesleybury Place Field #1
+New Meghanborough Celtics,Lake Taylor Jacks,20,1,2.5,4.5,2024,Obsidian League,Wesleybury Place Field #1
+East Michael Americans,Port Terriville Bears,20,1,20.0,22.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Charlesfurt Bulls,20,2,15.5,17.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,West Charles Pirates,20,1,20.0,22.0,2024,Obsidian League,Wesleybury Place Field #1
+Robbinsland Sox,Singhton Celtics,20,1,10.0,12.0,2024,Obsidian League,Wesleybury Place Field #2
+New Douglas Wildcats,Kingberg Eagles,21,1,4.5,6.5,2024,Obsidian League,Wesleybury Place Field #2
+South Charles Westerners,Millerburgh Sox,21,1,17.0,19.0,2024,Obsidian League,Wesleybury Place Field #1
+New Ginaborough Westerners,Port Jamesstad Pirates,21,1,15.5,17.5,2024,Obsidian League,North Christine Complex Field #1
+New Jerryberg Eagles,Jacobchester Hornets,21,1,12.0,14.0,2024,Obsidian League,Wesleybury Place Field #2
+Michaelberg Mavericks,West Jonathanville Sabres,21,2,19.0,21.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Lake Katelynmouth Wildcats,21,1,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #2
+North Heathershire Bobcats,New Sharon Bulls,21,2,10.5,12.5,2024,Obsidian League,Wesleybury Place Field #1
+East Matthewburgh Bobcats,Bryantmouth Sabres,21,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Vargasside Sabres,21,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #2
+Schwartzmouth Americans,Port Laura Raptors,21,1,19.0,21.0,2024,Obsidian League,Wesleybury Place Field #1
+New Meghanborough Celtics,Port Connieland Wildcats,21,2,12.5,14.5,2024,Obsidian League,Wesleybury Place Field #1
+East Michael Americans,East Jennaview Jacks,21,1,21.0,23.0,2024,Obsidian League,Wesleybury Place Field #1
+North Rita Jacks,Lake Taylor Jacks,21,1,8.0,10.0,2024,Obsidian League,West Anthonyhaven Facility Field #1
+Audreybury Eagles,Port Terriville Bears,21,1,14.0,16.0,2024,Obsidian League,Wesleybury Place Field #2
+Robbinsland Sox,Charlesfurt Bulls,21,1,16.0,18.0,2024,Obsidian League,Wesleybury Place Field #2
+Singhton Celtics,West Charles Pirates,21,1,18.0,20.0,2024,Obsidian League,Wesleybury Place Field #2
+New Douglas Wildcats,South Charles Westerners,22,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Ginaborough Westerners,Kingberg Eagles,22,3,5.0,7.0,2024,Obsidian League,Wesleybury Place Field #1
+New Jerryberg Eagles,Millerburgh Sox,22,4,20.5,22.5,2024,Obsidian League,West Cliffordborough Complex Field #1
+Michaelberg Mavericks,Port Jamesstad Pirates,22,2,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Jacobchester Hornets,22,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,West Jonathanville Sabres,22,4,10.0,12.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Matthewburgh Bobcats,Lake Katelynmouth Wildcats,22,2,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+Theodorehaven Sox,New Sharon Bulls,22,1,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,Bryantmouth Sabres,22,1,10.0,12.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,Vargasside Sabres,22,1,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,Port Laura Raptors,22,1,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Port Connieland Wildcats,22,2,12.5,14.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,East Jennaview Jacks,22,1,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,Lake Taylor Jacks,22,1,9.5,11.5,2024,Obsidian League,Wesleybury Place Field #1
+Singhton Celtics,Port Terriville Bears,22,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+West Charles Pirates,Charlesfurt Bulls,22,1,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Douglas Wildcats,New Ginaborough Westerners,23,3,5.0,7.0,2024,Obsidian League,Wesleybury Place Field #1
+New Jerryberg Eagles,South Charles Westerners,23,1,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Michaelberg Mavericks,Kingberg Eagles,23,2,18.5,20.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,Millerburgh Sox,23,2,10.0,12.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Port Jamesstad Pirates,23,1,16.0,18.0,2024,Obsidian League,North Christine Complex Field #1
+East Matthewburgh Bobcats,Jacobchester Hornets,23,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,West Jonathanville Sabres,23,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,Lake Katelynmouth Wildcats,23,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,New Sharon Bulls,23,1,6.5,8.5,2024,Obsidian League,Wesleybury Place Field #1
+East Michael Americans,Bryantmouth Sabres,23,1,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Vargasside Sabres,23,1,8.5,10.5,2024,Obsidian League,Wesleybury Place Field #1
+Audreybury Eagles,Port Laura Raptors,23,1,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,Port Connieland Wildcats,23,2,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Singhton Celtics,East Jennaview Jacks,23,2,7.5,9.5,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,Lake Taylor Jacks,23,1,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Port Terriville Bears,23,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,New Jerryberg Eagles,24,3,19.0,21.0,2024,Obsidian League,North Christine Complex Field #1
+Michaelberg Mavericks,New Ginaborough Westerners,24,1,17.5,19.5,2024,Obsidian League,North Christine Complex Field #1
+Crystalshire Rappers,South Charles Westerners,24,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Kingberg Eagles,24,3,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+East Matthewburgh Bobcats,Millerburgh Sox,24,2,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Port Jamesstad Pirates,24,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,Jacobchester Hornets,24,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,West Jonathanville Sabres,24,1,11.0,13.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,Lake Katelynmouth Wildcats,24,1,13.0,15.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,New Sharon Bulls,24,1,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+Audreybury Eagles,Bryantmouth Sabres,24,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,Vargasside Sabres,24,1,10.0,12.0,2024,Obsidian League,Wesleybury Place Field #1
+Singhton Celtics,Port Laura Raptors,24,1,15.0,17.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,Port Connieland Wildcats,24,3,11.0,13.0,2024,Obsidian League,Wesleybury Place Field #1
+Charlesfurt Bulls,East Jennaview Jacks,24,2,11.0,13.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,Lake Taylor Jacks,24,1,12.0,14.0,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,Michaelberg Mavericks,25,2,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Crystalshire Rappers,New Jerryberg Eagles,25,5,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+North Heathershire Bobcats,New Ginaborough Westerners,25,1,16.0,18.0,2024,Obsidian League,North Christine Complex Field #1
+East Matthewburgh Bobcats,South Charles Westerners,25,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Kingberg Eagles,25,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,Millerburgh Sox,25,3,10.5,12.5,2024,Obsidian League,Wesleybury Place Field #1
+New Meghanborough Celtics,Port Jamesstad Pirates,25,1,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,Jacobchester Hornets,25,1,10.0,12.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,West Jonathanville Sabres,25,1,8.0,10.0,2024,Obsidian League,Wesleybury Place Field #1
+Audreybury Eagles,Lake Katelynmouth Wildcats,25,1,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,New Sharon Bulls,25,1,10.0,12.0,2024,Obsidian League,Wesleybury Place Field #1
+Singhton Celtics,Bryantmouth Sabres,25,1,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,Vargasside Sabres,25,1,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Port Laura Raptors,25,1,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,Port Connieland Wildcats,25,2,10.5,12.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Lake Taylor Jacks,East Jennaview Jacks,25,1,12.0,14.0,2024,Obsidian League,Wesleybury Place Field #1
+New Douglas Wildcats,Crystalshire Rappers,26,1,2.0,4.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Heathershire Bobcats,Michaelberg Mavericks,26,1,17.5,19.5,2024,Obsidian League,North Christine Complex Field #1
+East Matthewburgh Bobcats,New Jerryberg Eagles,26,4,20.5,22.5,2024,Obsidian League,West Cliffordborough Complex Field #1
+Theodorehaven Sox,New Ginaborough Westerners,26,2,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,South Charles Westerners,26,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,Kingberg Eagles,26,1,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,Millerburgh Sox,26,1,11.5,13.5,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Port Jamesstad Pirates,26,1,13.5,15.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,Jacobchester Hornets,26,1,6.5,8.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,West Jonathanville Sabres,26,1,9.5,11.5,2024,Obsidian League,Wesleybury Place Field #1
+Singhton Celtics,Lake Katelynmouth Wildcats,26,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+West Charles Pirates,New Sharon Bulls,26,1,15.5,17.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Bryantmouth Sabres,26,1,17.5,19.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,Vargasside Sabres,26,1,13.5,15.5,2024,Obsidian League,Wesleybury Place Field #1
+Lake Taylor Jacks,Port Laura Raptors,26,1,15.5,17.5,2024,Obsidian League,Wesleybury Place Field #1
+East Jennaview Jacks,Port Connieland Wildcats,26,2,10.5,12.5,2024,Obsidian League,Lake Dawn Hub Field #1
+New Douglas Wildcats,North Heathershire Bobcats,27,3,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+East Matthewburgh Bobcats,Crystalshire Rappers,27,1,2.0,4.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,Michaelberg Mavericks,27,2,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,New Jerryberg Eagles,27,6,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,New Ginaborough Westerners,27,2,12.5,14.5,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,South Charles Westerners,27,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Kingberg Eagles,27,2,18.5,20.5,2024,Obsidian League,Wesleybury Place Field #1
+Audreybury Eagles,Millerburgh Sox,27,1,11.5,13.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,Port Jamesstad Pirates,27,1,9.5,11.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Singhton Celtics,Jacobchester Hornets,27,1,13.5,15.5,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,West Jonathanville Sabres,27,1,15.5,17.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Lake Katelynmouth Wildcats,27,1,17.5,19.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,New Sharon Bulls,27,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+Lake Taylor Jacks,Bryantmouth Sabres,27,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Jennaview Jacks,Vargasside Sabres,27,1,7.0,9.0,2024,Obsidian League,Wesleybury Place Field #1
+Port Connieland Wildcats,Port Laura Raptors,27,2,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Douglas Wildcats,East Matthewburgh Bobcats,28,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Theodorehaven Sox,North Heathershire Bobcats,28,3,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+Schwartzmouth Americans,Crystalshire Rappers,28,1,9.0,11.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,Michaelberg Mavericks,28,2,4.5,6.5,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,New Jerryberg Eagles,28,1,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,New Ginaborough Westerners,28,2,12.5,14.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,South Charles Westerners,28,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,Kingberg Eagles,28,2,18.5,20.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Singhton Celtics,Millerburgh Sox,28,1,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,Port Jamesstad Pirates,28,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Jacobchester Hornets,28,1,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,West Jonathanville Sabres,28,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+Lake Taylor Jacks,Lake Katelynmouth Wildcats,28,1,9.0,11.0,2024,Obsidian League,Wesleybury Place Field #1
+East Jennaview Jacks,New Sharon Bulls,28,1,7.0,9.0,2024,Obsidian League,Wesleybury Place Field #1
+Port Connieland Wildcats,Bryantmouth Sabres,28,2,14.5,16.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Laura Raptors,Vargasside Sabres,28,1,18.0,20.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Douglas Wildcats,Theodorehaven Sox,29,1,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Schwartzmouth Americans,East Matthewburgh Bobcats,29,3,1.0,3.0,2024,Obsidian League,Lake Dawn Hub Field #1
+New Meghanborough Celtics,North Heathershire Bobcats,29,2,10.5,12.5,2024,Obsidian League,Lake Dawn Hub Field #1
+East Michael Americans,Crystalshire Rappers,29,1,6.0,8.0,2024,Obsidian League,Lake Dawn Hub Field #1
+North Rita Jacks,Michaelberg Mavericks,29,2,12.5,14.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Audreybury Eagles,New Jerryberg Eagles,29,1,12.0,14.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Robbinsland Sox,New Ginaborough Westerners,29,2,14.5,16.5,2024,Obsidian League,Lake Dawn Hub Field #1
+Singhton Celtics,South Charles Westerners,29,1,10.0,12.0,2024,Obsidian League,Lake Dawn Hub Field #1
+West Charles Pirates,Kingberg Eagles,29,1,8.0,10.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Charlesfurt Bulls,Millerburgh Sox,29,1,14.0,16.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Port Terriville Bears,Port Jamesstad Pirates,29,1,11.5,13.5,2024,Obsidian League,Wesleybury Place Field #1
+Lake Taylor Jacks,Jacobchester Hornets,29,1,4.0,6.0,2024,Obsidian League,Lake Dawn Hub Field #1
+East Jennaview Jacks,West Jonathanville Sabres,29,1,7.0,9.0,2024,Obsidian League,Wesleybury Place Field #1
+Port Connieland Wildcats,Lake Katelynmouth Wildcats,29,2,10.5,12.5,2024,Obsidian League,Wesleybury Place Field #1
+Port Laura Raptors,New Sharon Bulls,29,1,16.0,18.0,2024,Obsidian League,Lake Dawn Hub Field #1
+Vargasside Sabres,Bryantmouth Sabres,29,1,5.0,7.0,2024,Obsidian League,Wesleybury Place Field #1
+Melissaland Warriors,Port Jessica Hawks,12,1,13.0,15.0,2024,Diamond League,Lake Dawn Hub Field #1
+Port Matthewside Bulls,Villarrealfort Chiefs,12,1,8.0,10.0,2024,Diamond League,Lake Dawn Hub Field #1
+Fernandezhaven Chargers,New Rick Vikings,12,1,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+West Sarah Westerners,Henryville Commandos,12,1,11.0,13.0,2024,Diamond League,Lake Dawn Hub Field #1
+East Charles Rappers,North Dawn Jacks,12,1,4.5,6.5,2024,Diamond League,Lake Dawn Hub Field #1
+Tylerville Robbers,Lake Monicaview Hawks,12,2,8.0,10.0,2024,Diamond League,Lake Dawn Hub Field #1
+North Thomas Jacks,Hayesview Vikings,12,1,18.0,20.0,2024,Diamond League,North Christine Complex Field #1
+West Denise Grizzlies,Carterport Celtics,12,5,11.0,13.0,2024,Diamond League,Wesleybury Place Field #1
+North Robertborough Dolphins,North Christian Bobcats,12,1,15.0,17.0,2024,Diamond League,Lake Dawn Hub Field #1
+Normanmouth Bucaneers,Adamsview Celtics,12,1,6.5,8.5,2024,Diamond League,Wesleybury Place Field #1
+East Deborahton Rappers,North Jason Sabres,12,1,17.0,19.0,2024,Diamond League,Lake Dawn Hub Field #1
+Jameschester Mavericks,East Julie Bobcats,12,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,Alvaradofort Bobcats,12,3,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+Port Christianview Sabres,Fletchermouth Hawks,12,2,2.0,4.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+New Annetteside Raptors,New Kimberly Bobcats,12,1,19.0,21.0,2024,Diamond League,Lake Dawn Hub Field #1
+Boltonfurt Americans,East Tiffanyton Pirates,12,2,17.5,19.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Alexander Celtics,Gonzalesmouth Jacks,12,1,21.0,23.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Nicholas Americans,Lyonsland Robbers,12,1,8.5,10.5,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,Danielstad Vikings,12,3,17.5,19.5,2024,Diamond League,Wesleybury Place Field #1
+Kristinfurt Americans,Castillofort Westerners,12,1,12.0,14.0,2024,Diamond League,Wesleybury Place Field #1
+Jonathanville Americans,Lake Raymond Warriors,12,2,10.0,12.0,2024,Diamond League,Lake Dawn Hub Field #1
+North Rebecca Raptors,East Danabury Eagles,12,2,16.5,18.5,2024,Diamond League,Wesleybury Place Field #1
+Mitchellburgh Warriors,Stevenmouth Sox,12,1,14.0,16.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Tonyachester Americans,Fisherchester Bulls,12,2,12.0,14.0,2024,Diamond League,Lake Dawn Hub Field #1
+Melissaland Warriors,Port Matthewside Bulls,13,2,12.5,14.5,2024,Diamond League,Lake Dawn Hub Field #1
+Fernandezhaven Chargers,Port Jessica Hawks,13,1,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1
+West Sarah Westerners,Villarrealfort Chiefs,13,1,14.5,16.5,2024,Diamond League,Wesleybury Place Field #1
+East Charles Rappers,New Rick Vikings,13,1,19.5,21.5,2024,Diamond League,Lake Dawn Hub Field #1
+Tylerville Robbers,Henryville Commandos,13,1,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+North Thomas Jacks,North Dawn Jacks,13,1,21.5,23.5,2024,Diamond League,Lake Dawn Hub Field #1
+West Denise Grizzlies,Lake Monicaview Hawks,13,1,16.5,18.5,2024,Diamond League,North Christine Complex Field #2
+North Robertborough Dolphins,Hayesview Vikings,13,2,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+Normanmouth Bucaneers,Carterport Celtics,13,1,3.0,5.0,2024,Diamond League,Wesleybury Place Field #1
+East Deborahton Rappers,North Christian Bobcats,13,1,16.5,18.5,2024,Diamond League,Wesleybury Place Field #1
+Jameschester Mavericks,Adamsview Celtics,13,1,7.5,9.5,2024,Diamond League,Wesleybury Place Field #2
+Jillville Americans,North Jason Sabres,13,1,9.5,11.5,2024,Diamond League,Wesleybury Place Field #2
+Port Christianview Sabres,East Julie Bobcats,13,1,16.0,18.0,2024,Diamond League,North Christine Complex Field #3
+New Annetteside Raptors,Alvaradofort Bobcats,13,2,14.5,16.5,2024,Diamond League,Lake Dawn Hub Field #1
+Boltonfurt Americans,Fletchermouth Hawks,13,1,5.0,7.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,New Kimberly Bobcats,13,1,18.5,20.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Nicholas Americans,East Tiffanyton Pirates,13,1,20.5,22.5,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,Gonzalesmouth Jacks,13,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+Kristinfurt Americans,Lyonsland Robbers,13,1,12.0,14.0,2024,Diamond League,Wesleybury Place Field #2
+Jonathanville Americans,Danielstad Vikings,13,1,2.0,4.0,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,Castillofort Westerners,13,3,4.5,6.5,2024,Diamond League,Wesleybury Place Field #1
+Mitchellburgh Warriors,Lake Raymond Warriors,13,2,16.5,18.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Tonyachester Americans,East Danabury Eagles,13,2,18.5,20.5,2024,Diamond League,Lake Dawn Hub Field #1
+Fisherchester Bulls,Stevenmouth Sox,13,2,4.5,6.5,2024,Diamond League,Lake Dawn Hub Field #1
+Melissaland Warriors,Fernandezhaven Chargers,14,1,13.0,15.0,2024,Diamond League,Wesleybury Place Field #1
+West Sarah Westerners,Port Matthewside Bulls,14,4,3.0,5.0,2024,Diamond League,Lake Dawn Hub Field #1
+East Charles Rappers,Port Jessica Hawks,14,2,14.0,16.0,2024,Diamond League,Lake Dawn Hub Field #1
+Tylerville Robbers,Villarrealfort Chiefs,14,1,10.0,12.0,2024,Diamond League,Wesleybury Place Field #1
+North Thomas Jacks,New Rick Vikings,14,1,19.0,21.0,2024,Diamond League,Lake Dawn Hub Field #1
+West Denise Grizzlies,Henryville Commandos,14,1,15.0,17.0,2024,Diamond League,Wesleybury Place Field #1
+North Robertborough Dolphins,North Dawn Jacks,14,1,4.5,6.5,2024,Diamond League,Wesleybury Place Field #1
+Normanmouth Bucaneers,Lake Monicaview Hawks,14,3,1.0,3.0,2024,Diamond League,Lake Dawn Hub Field #1
+East Deborahton Rappers,Hayesview Vikings,14,2,3.0,5.0,2024,Diamond League,Lake Dawn Hub Field #1
+Jameschester Mavericks,Carterport Celtics,14,1,11.0,13.0,2024,Diamond League,Wesleybury Place Field #2
+Jillville Americans,North Christian Bobcats,14,1,13.0,15.0,2024,Diamond League,Wesleybury Place Field #2
+Port Christianview Sabres,Adamsview Celtics,14,3,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,North Jason Sabres,14,1,17.0,19.0,2024,Diamond League,Wesleybury Place Field #1
+Boltonfurt Americans,East Julie Bobcats,14,3,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,Alvaradofort Bobcats,14,3,8.0,10.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Nicholas Americans,Fletchermouth Hawks,14,1,19.0,21.0,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,New Kimberly Bobcats,14,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+Kristinfurt Americans,East Tiffanyton Pirates,14,1,15.0,17.0,2024,Diamond League,Wesleybury Place Field #2
+Jonathanville Americans,Gonzalesmouth Jacks,14,2,9.0,11.0,2024,Diamond League,Wesleybury Place Field #1
+North Rebecca Raptors,Lyonsland Robbers,14,1,6.5,8.5,2024,Diamond League,Wesleybury Place Field #2
+Mitchellburgh Warriors,Danielstad Vikings,14,1,2.0,4.0,2024,Diamond League,Wesleybury Place Field #2
+Lake Tonyachester Americans,Castillofort Westerners,14,1,17.0,19.0,2024,Diamond League,Wesleybury Place Field #2
+Fisherchester Bulls,Lake Raymond Warriors,14,2,5.0,7.0,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,East Danabury Eagles,14,1,21.5,23.5,2024,Diamond League,West Anthonyhaven Facility Field #1
+Melissaland Warriors,West Sarah Westerners,15,1,13.5,15.5,2024,Diamond League,Wesleybury Place Field #1
+East Charles Rappers,Fernandezhaven Chargers,15,1,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+Tylerville Robbers,Port Matthewside Bulls,15,1,8.0,10.0,2024,Diamond League,Wesleybury Place Field #2
+North Thomas Jacks,Port Jessica Hawks,15,1,15.5,17.5,2024,Diamond League,Wesleybury Place Field #1
+West Denise Grizzlies,Villarrealfort Chiefs,15,1,13.0,15.0,2024,Diamond League,Wesleybury Place Field #2
+North Robertborough Dolphins,New Rick Vikings,15,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #1
+Normanmouth Bucaneers,Henryville Commandos,15,1,4.5,6.5,2024,Diamond League,Wesleybury Place Field #1
+East Deborahton Rappers,North Dawn Jacks,15,1,6.5,8.5,2024,Diamond League,Wesleybury Place Field #1
+Jameschester Mavericks,Lake Monicaview Hawks,15,1,18.0,20.0,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,Hayesview Vikings,15,2,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+Port Christianview Sabres,Carterport Celtics,15,3,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,North Christian Bobcats,15,1,17.5,19.5,2024,Diamond League,Wesleybury Place Field #1
+Boltonfurt Americans,Adamsview Celtics,15,1,6.5,8.5,2024,Diamond League,West Anthonyhaven Facility Field #1
+Lake Alexander Celtics,North Jason Sabres,15,1,19.5,21.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Nicholas Americans,East Julie Bobcats,15,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #1
+North Mark Vikings,Alvaradofort Bobcats,15,3,15.0,17.0,2024,Diamond League,Wesleybury Place Field #1
+Kristinfurt Americans,Fletchermouth Hawks,15,1,12.0,14.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Jonathanville Americans,New Kimberly Bobcats,15,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,East Tiffanyton Pirates,15,2,16.5,18.5,2024,Diamond League,Lake Dawn Hub Field #1
+Mitchellburgh Warriors,Gonzalesmouth Jacks,15,2,10.5,12.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Tonyachester Americans,Lyonsland Robbers,15,1,15.0,17.0,2024,Diamond League,Wesleybury Place Field #2
+Fisherchester Bulls,Danielstad Vikings,15,1,2.0,4.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+Stevenmouth Sox,Castillofort Westerners,15,1,21.5,23.5,2024,Diamond League,Wesleybury Place Field #1
+East Danabury Eagles,Lake Raymond Warriors,15,2,12.5,14.5,2024,Diamond League,Lake Dawn Hub Field #1
+Melissaland Warriors,East Charles Rappers,16,2,11.5,13.5,2024,Diamond League,Wesleybury Place Field #1
+Tylerville Robbers,West Sarah Westerners,16,3,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+North Thomas Jacks,Fernandezhaven Chargers,16,1,1.5,3.5,2024,Diamond League,Wesleybury Place Field #1
+West Denise Grizzlies,Port Matthewside Bulls,16,2,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+North Robertborough Dolphins,Port Jessica Hawks,16,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+Normanmouth Bucaneers,Villarrealfort Chiefs,16,1,2.5,4.5,2024,Diamond League,Lake Jennifermouth Dome Field #1
+East Deborahton Rappers,New Rick Vikings,16,1,20.0,22.0,2024,Diamond League,Wesleybury Place Field #2
+Jameschester Mavericks,Henryville Commandos,16,1,7.5,9.5,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,North Dawn Jacks,16,1,8.0,10.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Port Christianview Sabres,Lake Monicaview Hawks,16,1,18.0,20.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+New Annetteside Raptors,Hayesview Vikings,16,1,18.0,20.0,2024,Diamond League,West Cliffordborough Complex Field #1
+Boltonfurt Americans,Carterport Celtics,16,1,3.5,5.5,2024,Diamond League,West Anthonyhaven Facility Field #1
+Lake Alexander Celtics,North Christian Bobcats,16,1,9.5,11.5,2024,Diamond League,North Christine Complex Field #1
+Lake Nicholas Americans,Adamsview Celtics,16,1,6.5,8.5,2024,Diamond League,North Christine Complex Field #2
+North Mark Vikings,North Jason Sabres,16,3,16.5,18.5,2024,Diamond League,Wesleybury Place Field #1
+Kristinfurt Americans,East Julie Bobcats,16,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #2
+Jonathanville Americans,Alvaradofort Bobcats,16,1,1.0,3.0,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,Fletchermouth Hawks,16,1,10.0,12.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Mitchellburgh Warriors,New Kimberly Bobcats,16,1,4.5,6.5,2024,Diamond League,Lake Jennifermouth Dome Field #1
+Lake Tonyachester Americans,East Tiffanyton Pirates,16,1,15.5,17.5,2024,Diamond League,North Christine Complex Field #2
+Fisherchester Bulls,Gonzalesmouth Jacks,16,2,4.5,6.5,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,Lyonsland Robbers,16,1,21.0,23.0,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,Danielstad Vikings,16,2,2.0,4.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Castillofort Westerners,16,2,9.0,11.0,2024,Diamond League,Wesleybury Place Field #1
+Melissaland Warriors,Tylerville Robbers,17,2,9.0,11.0,2024,Diamond League,Lake Dawn Hub Field #1
+North Thomas Jacks,East Charles Rappers,17,1,4.5,6.5,2024,Diamond League,Wesleybury Place Field #2
+West Denise Grizzlies,West Sarah Westerners,17,1,15.5,17.5,2024,Diamond League,Wesleybury Place Field #2
+North Robertborough Dolphins,Fernandezhaven Chargers,17,1,17.5,19.5,2024,Diamond League,Wesleybury Place Field #2
+Normanmouth Bucaneers,Port Matthewside Bulls,17,1,8.0,10.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+East Deborahton Rappers,Port Jessica Hawks,17,1,12.5,14.5,2024,Diamond League,North Christine Complex Field #1
+Jameschester Mavericks,Villarrealfort Chiefs,17,1,7.5,9.5,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,New Rick Vikings,17,1,19.5,21.5,2024,Diamond League,Wesleybury Place Field #2
+Port Christianview Sabres,Henryville Commandos,17,2,4.0,6.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+New Annetteside Raptors,North Dawn Jacks,17,1,5.5,7.5,2024,Diamond League,North Christine Complex Field #1
+Boltonfurt Americans,Lake Monicaview Hawks,17,3,3.5,5.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Alexander Celtics,Hayesview Vikings,17,1,18.5,20.5,2024,Diamond League,North Christine Complex Field #1
+Lake Nicholas Americans,Carterport Celtics,17,1,9.5,11.5,2024,Diamond League,North Christine Complex Field #1
+North Mark Vikings,North Christian Bobcats,17,1,14.5,16.5,2024,Diamond League,North Christine Complex Field #1
+Kristinfurt Americans,Adamsview Celtics,17,3,5.5,7.5,2024,Diamond League,Lake Dawn Hub Field #1
+Jonathanville Americans,North Jason Sabres,17,3,12.0,14.0,2024,Diamond League,Wesleybury Place Field #1
+North Rebecca Raptors,East Julie Bobcats,17,5,5.0,7.0,2024,Diamond League,Wesleybury Place Field #1
+Mitchellburgh Warriors,Alvaradofort Bobcats,17,1,1.0,3.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Tonyachester Americans,Fletchermouth Hawks,17,1,11.5,13.5,2024,Diamond League,North Christine Complex Field #2
+Fisherchester Bulls,New Kimberly Bobcats,17,1,2.5,4.5,2024,Diamond League,Lake Jennifermouth Dome Field #1
+Stevenmouth Sox,East Tiffanyton Pirates,17,1,21.5,23.5,2024,Diamond League,Wesleybury Place Field #2
+East Danabury Eagles,Gonzalesmouth Jacks,17,2,4.0,6.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Lyonsland Robbers,17,1,20.5,22.5,2024,Diamond League,North Christine Complex Field #1
+Castillofort Westerners,Danielstad Vikings,17,5,11.5,13.5,2024,Diamond League,Wesleybury Place Field #1
+Melissaland Warriors,North Thomas Jacks,18,1,21.5,23.5,2024,Diamond League,Wesleybury Place Field #2
+West Denise Grizzlies,Tylerville Robbers,18,7,9.5,11.5,2024,Diamond League,Lake Dawn Hub Field #1
+North Robertborough Dolphins,East Charles Rappers,18,1,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+Normanmouth Bucaneers,West Sarah Westerners,18,1,12.0,14.0,2024,Diamond League,North Christine Complex Field #1
+East Deborahton Rappers,Fernandezhaven Chargers,18,1,6.5,8.5,2024,Diamond League,North Christine Complex Field #1
+Jameschester Mavericks,Port Matthewside Bulls,18,1,8.0,10.0,2024,Diamond League,North Christine Complex Field #2
+Jillville Americans,Port Jessica Hawks,18,3,4.0,6.0,2024,Diamond League,Lake Dawn Hub Field #1
+Port Christianview Sabres,Villarrealfort Chiefs,18,3,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,New Rick Vikings,18,1,5.5,7.5,2024,Diamond League,North Christine Complex Field #2
+Boltonfurt Americans,Henryville Commandos,18,1,4.0,6.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Lake Alexander Celtics,North Dawn Jacks,18,4,15.0,17.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+Lake Nicholas Americans,Lake Monicaview Hawks,18,1,17.5,19.5,2024,Diamond League,North Christine Complex Field #2
+North Mark Vikings,Hayesview Vikings,18,1,19.5,21.5,2024,Diamond League,North Christine Complex Field #2
+Kristinfurt Americans,Carterport Celtics,18,1,12.0,14.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Jonathanville Americans,North Christian Bobcats,18,2,11.0,13.0,2024,Diamond League,Wesleybury Place Field #1
+North Rebecca Raptors,Adamsview Celtics,18,1,6.5,8.5,2024,Diamond League,Heatherstad Plaza Field #1
+Mitchellburgh Warriors,North Jason Sabres,18,1,9.0,11.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Lake Tonyachester Americans,East Julie Bobcats,18,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #2
+Fisherchester Bulls,Alvaradofort Bobcats,18,1,2.0,4.0,2024,Diamond League,Wesleybury Place Field #1
+Stevenmouth Sox,Fletchermouth Hawks,18,1,21.5,23.5,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,New Kimberly Bobcats,18,2,8.0,10.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,East Tiffanyton Pirates,18,1,15.0,17.0,2024,Diamond League,North Christine Complex Field #3
+Castillofort Westerners,Gonzalesmouth Jacks,18,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #3
+Danielstad Vikings,Lyonsland Robbers,18,4,4.5,6.5,2024,Diamond League,Lake Dawn Hub Field #1
+Melissaland Warriors,West Denise Grizzlies,19,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+North Robertborough Dolphins,North Thomas Jacks,19,1,2.0,4.0,2024,Diamond League,Wesleybury Place Field #2
+Normanmouth Bucaneers,Tylerville Robbers,19,1,7.0,9.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+East Deborahton Rappers,East Charles Rappers,19,2,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1
+Jameschester Mavericks,West Sarah Westerners,19,1,11.0,13.0,2024,Diamond League,North Christine Complex Field #2
+Jillville Americans,Fernandezhaven Chargers,19,1,8.0,10.0,2024,Diamond League,North Christine Complex Field #2
+Port Christianview Sabres,Port Matthewside Bulls,19,3,13.5,15.5,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,Port Jessica Hawks,19,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #2
+Boltonfurt Americans,Villarrealfort Chiefs,19,1,3.5,5.5,2024,Diamond League,West Anthonyhaven Facility Field #1
+Lake Alexander Celtics,New Rick Vikings,19,1,20.5,22.5,2024,Diamond League,Wesleybury Place Field #2
+Lake Nicholas Americans,Henryville Commandos,19,1,4.0,6.0,2024,Diamond League,North Christine Complex Field #1
+North Mark Vikings,North Dawn Jacks,19,2,3.0,5.0,2024,Diamond League,Lake Dawn Hub Field #1
+Kristinfurt Americans,Lake Monicaview Hawks,19,3,4.0,6.0,2024,Diamond League,Lake Dawn Hub Field #1
+Jonathanville Americans,Hayesview Vikings,19,2,9.0,11.0,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,Carterport Celtics,19,1,9.0,11.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Mitchellburgh Warriors,North Christian Bobcats,19,1,6.0,8.0,2024,Diamond League,North Christine Complex Field #1
+Lake Tonyachester Americans,Adamsview Celtics,19,3,6.5,8.5,2024,Diamond League,Wesleybury Place Field #1
+Fisherchester Bulls,North Jason Sabres,19,2,19.0,21.0,2024,Diamond League,Wesleybury Place Field #1
+Stevenmouth Sox,East Julie Bobcats,19,1,20.5,22.5,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,Alvaradofort Bobcats,19,2,14.5,16.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Raymond Warriors,Fletchermouth Hawks,19,2,5.0,7.0,2024,Diamond League,Lake Dawn Hub Field #1
+Castillofort Westerners,New Kimberly Bobcats,19,1,15.0,17.0,2024,Diamond League,North Christine Complex Field #2
+Danielstad Vikings,East Tiffanyton Pirates,19,2,7.0,9.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lyonsland Robbers,Gonzalesmouth Jacks,19,1,17.0,19.0,2024,Diamond League,North Christine Complex Field #2
+Melissaland Warriors,North Robertborough Dolphins,20,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #1
+Normanmouth Bucaneers,West Denise Grizzlies,20,3,10.0,12.0,2024,Diamond League,Wesleybury Place Field #2
+East Deborahton Rappers,North Thomas Jacks,20,1,16.5,18.5,2024,Diamond League,Wesleybury Place Field #2
+Jameschester Mavericks,Tylerville Robbers,20,1,7.5,9.5,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,East Charles Rappers,20,3,13.0,15.0,2024,Diamond League,Wesleybury Place Field #1
+Port Christianview Sabres,West Sarah Westerners,20,1,16.0,18.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+New Annetteside Raptors,Fernandezhaven Chargers,20,1,18.5,20.5,2024,Diamond League,Wesleybury Place Field #2
+Boltonfurt Americans,Port Matthewside Bulls,20,3,15.0,17.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,Port Jessica Hawks,20,1,20.5,22.5,2024,Diamond League,Wesleybury Place Field #2
+Lake Nicholas Americans,Villarrealfort Chiefs,20,1,4.0,6.0,2024,Diamond League,North Christine Complex Field #1
+North Mark Vikings,New Rick Vikings,20,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #2
+Kristinfurt Americans,Henryville Commandos,20,1,12.0,14.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Jonathanville Americans,North Dawn Jacks,20,1,1.5,3.5,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,Lake Monicaview Hawks,20,3,17.0,19.0,2024,Diamond League,Wesleybury Place Field #1
+Mitchellburgh Warriors,Hayesview Vikings,20,2,10.5,12.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Tonyachester Americans,Carterport Celtics,20,1,11.5,13.5,2024,Diamond League,North Christine Complex Field #2
+Fisherchester Bulls,North Christian Bobcats,20,2,17.5,19.5,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,Adamsview Celtics,20,1,10.0,12.0,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,North Jason Sabres,20,2,19.0,21.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Raymond Warriors,East Julie Bobcats,20,1,18.5,20.5,2024,Diamond League,North Christine Complex Field #2
+Castillofort Westerners,Alvaradofort Bobcats,20,2,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1
+Danielstad Vikings,Fletchermouth Hawks,20,2,2.0,4.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+Lyonsland Robbers,New Kimberly Bobcats,20,1,5.0,7.0,2024,Diamond League,North Christine Complex Field #2
+Gonzalesmouth Jacks,East Tiffanyton Pirates,20,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #3
+Melissaland Warriors,Normanmouth Bucaneers,21,4,12.0,14.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+East Deborahton Rappers,North Robertborough Dolphins,21,1,6.5,8.5,2024,Diamond League,North Christine Complex Field #1
+Jameschester Mavericks,West Denise Grizzlies,21,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #1
+Jillville Americans,North Thomas Jacks,21,1,20.0,22.0,2024,Diamond League,Wesleybury Place Field #2
+Port Christianview Sabres,Tylerville Robbers,21,3,6.5,8.5,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,East Charles Rappers,21,2,14.5,16.5,2024,Diamond League,Wesleybury Place Field #1
+Boltonfurt Americans,West Sarah Westerners,21,3,8.5,10.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,Fernandezhaven Chargers,21,1,9.5,11.5,2024,Diamond League,North Christine Complex Field #1
+Lake Nicholas Americans,Port Matthewside Bulls,21,1,8.0,10.0,2024,Diamond League,North Christine Complex Field #2
+North Mark Vikings,Port Jessica Hawks,21,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #2
+Kristinfurt Americans,Villarrealfort Chiefs,21,1,12.0,14.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Jonathanville Americans,New Rick Vikings,21,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #1
+North Rebecca Raptors,Henryville Commandos,21,1,10.0,12.0,2024,Diamond League,West Anthonyhaven Facility Field #1
+Mitchellburgh Warriors,North Dawn Jacks,21,1,1.5,3.5,2024,Diamond League,Wesleybury Place Field #2
+Lake Tonyachester Americans,Lake Monicaview Hawks,21,1,16.5,18.5,2024,Diamond League,North Christine Complex Field #3
+Fisherchester Bulls,Hayesview Vikings,21,2,8.0,10.0,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,Carterport Celtics,21,1,21.0,23.0,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,North Christian Bobcats,21,2,16.5,18.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Raymond Warriors,Adamsview Celtics,21,2,5.5,7.5,2024,Diamond League,Wesleybury Place Field #1
+Castillofort Westerners,North Jason Sabres,21,1,9.0,11.0,2024,Diamond League,Heatherstad Plaza Field #1
+Danielstad Vikings,East Julie Bobcats,21,5,11.5,13.5,2024,Diamond League,Wesleybury Place Field #1
+Lyonsland Robbers,Alvaradofort Bobcats,21,3,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1
+Gonzalesmouth Jacks,Fletchermouth Hawks,21,1,13.0,15.0,2024,Diamond League,North Christine Complex Field #3
+East Tiffanyton Pirates,New Kimberly Bobcats,21,1,12.0,14.0,2024,Diamond League,North Christine Complex Field #2
+Melissaland Warriors,East Deborahton Rappers,22,1,13.5,15.5,2024,Diamond League,Wesleybury Place Field #1
+Jameschester Mavericks,Normanmouth Bucaneers,22,1,7.5,9.5,2024,Diamond League,Wesleybury Place Field #1
+Jillville Americans,North Robertborough Dolphins,22,1,15.5,17.5,2024,Diamond League,Wesleybury Place Field #1
+Port Christianview Sabres,West Denise Grizzlies,22,1,16.0,18.0,2024,Diamond League,North Christine Complex Field #1
+New Annetteside Raptors,North Thomas Jacks,22,1,20.0,22.0,2024,Diamond League,Lake Dawn Hub Field #1
+Boltonfurt Americans,Tylerville Robbers,22,1,7.0,9.0,2024,Diamond League,Wesleybury Place Field #2
+Lake Alexander Celtics,East Charles Rappers,22,3,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Nicholas Americans,West Sarah Westerners,22,1,17.5,19.5,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,Fernandezhaven Chargers,22,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+Kristinfurt Americans,Port Matthewside Bulls,22,2,14.5,16.5,2024,Diamond League,Lake Dawn Hub Field #1
+Jonathanville Americans,Port Jessica Hawks,22,4,1.5,3.5,2024,Diamond League,Lake Dawn Hub Field #1
+North Rebecca Raptors,Villarrealfort Chiefs,22,1,9.0,11.0,2024,Diamond League,Wesleybury Place Field #2
+Mitchellburgh Warriors,New Rick Vikings,22,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Tonyachester Americans,Henryville Commandos,22,1,11.5,13.5,2024,Diamond League,Wesleybury Place Field #2
+Fisherchester Bulls,North Dawn Jacks,22,1,2.0,4.0,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,Lake Monicaview Hawks,22,1,18.0,20.0,2024,Diamond League,North Christine Complex Field #1
+East Danabury Eagles,Hayesview Vikings,22,2,2.5,4.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Carterport Celtics,22,2,10.5,12.5,2024,Diamond League,Lake Dawn Hub Field #1
+Castillofort Westerners,North Christian Bobcats,22,1,13.5,15.5,2024,Diamond League,Wesleybury Place Field #2
+Danielstad Vikings,Adamsview Celtics,22,4,3.5,5.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lyonsland Robbers,North Jason Sabres,22,1,19.5,21.5,2024,Diamond League,Wesleybury Place Field #1
+Gonzalesmouth Jacks,East Julie Bobcats,22,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #2
+East Tiffanyton Pirates,Alvaradofort Bobcats,22,2,16.5,18.5,2024,Diamond League,Lake Dawn Hub Field #1
+New Kimberly Bobcats,Fletchermouth Hawks,22,1,5.0,7.0,2024,Diamond League,Wesleybury Place Field #1
+Melissaland Warriors,Jameschester Mavericks,23,1,13.5,15.5,2024,Diamond League,Wesleybury Place Field #1
+Jillville Americans,East Deborahton Rappers,23,1,15.5,17.5,2024,Diamond League,Wesleybury Place Field #1
+Port Christianview Sabres,Normanmouth Bucaneers,23,3,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+New Annetteside Raptors,North Robertborough Dolphins,23,1,17.5,19.5,2024,Diamond League,Wesleybury Place Field #1
+Boltonfurt Americans,West Denise Grizzlies,23,3,10.0,12.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,North Thomas Jacks,23,1,20.0,22.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Nicholas Americans,Tylerville Robbers,23,1,19.5,21.5,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,East Charles Rappers,23,3,15.0,17.0,2024,Diamond League,Wesleybury Place Field #1
+Kristinfurt Americans,West Sarah Westerners,23,1,12.0,14.0,2024,Diamond League,Wesleybury Place Field #2
+Jonathanville Americans,Fernandezhaven Chargers,23,1,1.0,3.0,2024,Diamond League,Lake Dawn Hub Field #1
+North Rebecca Raptors,Port Matthewside Bulls,23,4,4.5,6.5,2024,Diamond League,Lake Dawn Hub Field #1
+Mitchellburgh Warriors,Port Jessica Hawks,23,7,5.5,7.5,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Tonyachester Americans,Villarrealfort Chiefs,23,1,14.0,16.0,2024,Diamond League,Wesleybury Place Field #2
+Fisherchester Bulls,New Rick Vikings,23,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #1
+Stevenmouth Sox,Henryville Commandos,23,1,21.5,23.5,2024,Diamond League,Wesleybury Place Field #1
+East Danabury Eagles,North Dawn Jacks,23,2,3.0,5.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Lake Monicaview Hawks,23,1,18.0,20.0,2024,Diamond League,North Christine Complex Field #1
+Castillofort Westerners,Hayesview Vikings,23,2,9.0,11.0,2024,Diamond League,Wesleybury Place Field #1
+Danielstad Vikings,Carterport Celtics,23,1,4.5,6.5,2024,Diamond League,Wesleybury Place Field #1
+Lyonsland Robbers,North Christian Bobcats,23,1,6.0,8.0,2024,Diamond League,Wesleybury Place Field #2
+Gonzalesmouth Jacks,Adamsview Celtics,23,2,5.5,7.5,2024,Diamond League,Wesleybury Place Field #1
+East Tiffanyton Pirates,North Jason Sabres,23,2,19.0,21.0,2024,Diamond League,Wesleybury Place Field #1
+New Kimberly Bobcats,East Julie Bobcats,23,1,13.5,15.5,2024,Diamond League,North Christine Complex Field #1
+Fletchermouth Hawks,Alvaradofort Bobcats,23,3,12.0,14.0,2024,Diamond League,Wesleybury Place Field #1
+Melissaland Warriors,Jillville Americans,24,2,13.0,15.0,2024,Diamond League,Lake Dawn Hub Field #1
+Port Christianview Sabres,Jameschester Mavericks,24,1,16.0,18.0,2024,Diamond League,North Christine Complex Field #2
+New Annetteside Raptors,East Deborahton Rappers,24,1,17.0,19.0,2024,Diamond League,Lake Dawn Hub Field #1
+Boltonfurt Americans,Normanmouth Bucaneers,24,1,3.5,5.5,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,North Robertborough Dolphins,24,1,19.0,21.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Nicholas Americans,West Denise Grizzlies,24,1,14.0,16.0,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,North Thomas Jacks,24,1,21.0,23.0,2024,Diamond League,Lake Dawn Hub Field #1
+Kristinfurt Americans,Tylerville Robbers,24,2,15.0,17.0,2024,Diamond League,Lake Dawn Hub Field #1
+Jonathanville Americans,East Charles Rappers,24,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #2
+North Rebecca Raptors,West Sarah Westerners,24,3,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+Mitchellburgh Warriors,Fernandezhaven Chargers,24,1,1.0,3.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Tonyachester Americans,Port Matthewside Bulls,24,2,11.0,13.0,2024,Diamond League,Wesleybury Place Field #1
+Fisherchester Bulls,Port Jessica Hawks,24,2,17.0,19.0,2024,Diamond League,Lake Dawn Hub Field #1
+Stevenmouth Sox,Villarrealfort Chiefs,24,1,16.0,18.0,2024,Diamond League,Wesleybury Place Field #1
+East Danabury Eagles,New Rick Vikings,24,2,19.0,21.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Henryville Commandos,24,2,4.0,6.0,2024,Diamond League,Lake Dawn Hub Field #1
+Castillofort Westerners,North Dawn Jacks,24,2,9.0,11.0,2024,Diamond League,Wesleybury Place Field #1
+Danielstad Vikings,Lake Monicaview Hawks,24,3,17.5,19.5,2024,Diamond League,Wesleybury Place Field #1
+Lyonsland Robbers,Hayesview Vikings,24,1,19.5,21.5,2024,Diamond League,North Christine Complex Field #1
+Gonzalesmouth Jacks,Carterport Celtics,24,2,21.0,23.0,2024,Diamond League,Lake Dawn Hub Field #1
+East Tiffanyton Pirates,North Christian Bobcats,24,1,18.0,20.0,2024,Diamond League,Wesleybury Place Field #1
+New Kimberly Bobcats,Adamsview Celtics,24,1,6.5,8.5,2024,Diamond League,Wesleybury Place Field #2
+Fletchermouth Hawks,North Jason Sabres,24,1,8.5,10.5,2024,Diamond League,Wesleybury Place Field #2
+Alvaradofort Bobcats,East Julie Bobcats,24,2,13.0,15.0,2024,Diamond League,Wesleybury Place Field #1
+Melissaland Warriors,Port Christianview Sabres,25,4,12.0,14.0,2024,Diamond League,Lake Jennifermouth Dome Field #1
+New Annetteside Raptors,Jillville Americans,25,1,14.0,16.0,2024,Diamond League,Wesleybury Place Field #1
+Boltonfurt Americans,Jameschester Mavericks,25,1,16.0,18.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Alexander Celtics,East Deborahton Rappers,25,1,20.0,22.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Nicholas Americans,Normanmouth Bucaneers,25,1,4.0,6.0,2024,Diamond League,Wesleybury Place Field #1
+North Mark Vikings,North Robertborough Dolphins,25,1,14.0,16.0,2024,Diamond League,North Christine Complex Field #1
+Kristinfurt Americans,West Denise Grizzlies,25,1,13.0,15.0,2024,Diamond League,Wesleybury Place Field #2
+Jonathanville Americans,North Thomas Jacks,25,1,1.5,3.5,2024,Diamond League,Lake Dawn Hub Field #1
+North Rebecca Raptors,Tylerville Robbers,25,1,7.0,9.0,2024,Diamond League,Wesleybury Place Field #2
+Mitchellburgh Warriors,East Charles Rappers,25,1,6.0,8.0,2024,Diamond League,Wesleybury Place Field #1
+Lake Tonyachester Americans,West Sarah Westerners,25,1,15.0,17.0,2024,Diamond League,Wesleybury Place Field #2
+Fisherchester Bulls,Fernandezhaven Chargers,25,1,2.0,4.0,2024,Diamond League,Wesleybury Place Field #1
+Stevenmouth Sox,Port Matthewside Bulls,25,2,6.0,8.0,2024,Diamond League,Lake Dawn Hub Field #1
+East Danabury Eagles,Port Jessica Hawks,25,2,14.0,16.0,2024,Diamond League,Lake Dawn Hub Field #1
+Lake Raymond Warriors,Villarrealfort Chiefs,25,2,16.0,18.0,2024,Diamond League,Lake Dawn Hub Field #1
+Castillofort Westerners,New Rick Vikings,25,1,18.0,20.0,2024,Diamond League,Wesleybury Place Field #1
+Danielstad Vikings,Henryville Commandos,25,5,11.5,13.5,2024,Diamond League,Wesleybury Place Field #1
+Lyonsland Robbers,North Dawn Jacks,25,1,20.0,22.0,2024,Diamond League,Wesleybury Place Field #1
+Gonzalesmouth Jacks,Lake Monicaview Hawks,25,1,18.0,20.0,2024,Diamond League,North Christine Complex Field #1
+East Tiffanyton Pirates,Hayesview Vikings,25,1,20.0,22.0,2024,Diamond League,North Christine Complex Field #1
+New Kimberly Bobcats,Carterport Celtics,25,1,2.5,4.5,2024,Diamond League,Wesleybury Place Field #2
+Fletchermouth Hawks,North Christian Bobcats,25,1,9.0,11.0,2024,Diamond League,Wesleybury Place Field #2
+Alvaradofort Bobcats,Adamsview Celtics,25,3,7.0,9.0,2024,Diamond League,Wesleybury Place Field #1
+East Julie Bobcats,North Jason Sabres,25,3,12.5,14.5,2024,Diamond League,Wesleybury Place Field #1

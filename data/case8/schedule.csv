@@ -1,1 +1,717 @@
-
+team1Name,team2Name,week,day,start,end,season,league,location
+East Jamesberg Mavericks,New Jacqueline Vikings,12,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Jonathan Commandos,North Adrianside Commandos,12,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+Gallegosstad Pirates,North Stevenberg Eagles,12,1,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Kentport Chiefs,South Vincent Grizzlies,12,4,13.5,15.5,2024,Platinum League,South Kimberly Plaza Field #1
+Patrickshire Hawks,Riveraton Bears,12,1,20.0,22.0,2024,Platinum League,South Kimberly Plaza Field #1
+Janiceland Bears,South Kara Raptors,12,1,4.0,6.0,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,West Donald Mavericks,12,2,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,Port Victoriaberg Americans,12,1,13.0,15.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,West Eddieland Pirates,12,1,15.0,17.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,Roberttown Bobcats,12,2,2.0,4.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,Lake Jean Raptors,12,1,17.0,19.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Fordfurt Hornets,12,5,2.5,4.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,South Jonathan Commandos,13,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Gallegosstad Pirates,New Jacqueline Vikings,13,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Kentport Chiefs,North Adrianside Commandos,13,2,16.0,18.0,2024,Platinum League,South Kimberly Plaza Field #1
+Patrickshire Hawks,North Stevenberg Eagles,13,1,20.0,22.0,2024,Platinum League,South Kimberly Plaza Field #1
+Janiceland Bears,South Vincent Grizzlies,13,2,3.5,5.5,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,Riveraton Bears,13,1,14.5,16.5,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,South Kara Raptors,13,1,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,West Donald Mavericks,13,1,16.5,18.5,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,Port Victoriaberg Americans,13,3,10.0,12.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,West Eddieland Pirates,13,2,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Roberttown Bobcats,13,1,3.0,5.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,Lake Jean Raptors,13,2,8.0,10.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Gallegosstad Pirates,14,2,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Kentport Chiefs,South Jonathan Commandos,14,3,4.5,6.5,2024,Platinum League,South Kimberly Plaza Field #1
+Patrickshire Hawks,New Jacqueline Vikings,14,3,1.5,3.5,2024,Platinum League,South Kimberly Plaza Field #1
+Janiceland Bears,North Adrianside Commandos,14,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,North Stevenberg Eagles,14,1,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,South Vincent Grizzlies,14,3,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,Riveraton Bears,14,1,14.5,16.5,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,South Kara Raptors,14,2,1.0,3.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,West Donald Mavericks,14,2,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Port Victoriaberg Americans,14,3,16.0,18.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,West Eddieland Pirates,14,2,8.0,10.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,Roberttown Bobcats,14,1,5.5,7.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,West Kentport Chiefs,15,5,9.5,11.5,2024,Platinum League,South Kimberly Plaza Field #1
+Patrickshire Hawks,Gallegosstad Pirates,15,2,2.5,4.5,2024,Platinum League,South Kimberly Plaza Field #1
+Janiceland Bears,South Jonathan Commandos,15,1,4.0,6.0,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,New Jacqueline Vikings,15,1,10.0,12.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,North Adrianside Commandos,15,1,12.0,14.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,North Stevenberg Eagles,15,1,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,South Vincent Grizzlies,15,2,4.5,6.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,Riveraton Bears,15,2,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,South Kara Raptors,15,1,8.0,10.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,West Donald Mavericks,15,6,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,Port Victoriaberg Americans,15,1,14.0,16.0,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,West Eddieland Pirates,15,2,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Patrickshire Hawks,16,3,6.5,8.5,2024,Platinum League,South Kimberly Plaza Field #1
+Janiceland Bears,West Kentport Chiefs,16,3,8.5,10.5,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,Gallegosstad Pirates,16,1,10.0,12.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,South Jonathan Commandos,16,1,12.0,14.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,New Jacqueline Vikings,16,1,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,North Adrianside Commandos,16,2,9.5,11.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,North Stevenberg Eagles,16,1,14.0,16.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,South Vincent Grizzlies,16,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,Riveraton Bears,16,2,7.5,9.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,South Kara Raptors,16,1,16.0,18.0,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,West Donald Mavericks,16,2,2.5,4.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,Port Victoriaberg Americans,16,2,12.0,14.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Janiceland Bears,17,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Johntown Chiefs,Patrickshire Hawks,17,4,19.0,21.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,West Kentport Chiefs,17,1,15.5,17.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,Gallegosstad Pirates,17,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,South Jonathan Commandos,17,2,1.0,3.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,New Jacqueline Vikings,17,1,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,North Adrianside Commandos,17,5,5.5,7.5,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,North Stevenberg Eagles,17,1,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,South Vincent Grizzlies,17,1,13.0,15.0,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,Riveraton Bears,17,5,7.5,9.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,South Kara Raptors,17,2,3.0,5.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,West Donald Mavericks,17,3,13.5,15.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Johntown Chiefs,18,4,2.0,4.0,2024,Platinum League,South Kimberly Plaza Field #1
+Robinsonberg Bears,Janiceland Bears,18,1,10.5,12.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,Patrickshire Hawks,18,1,20.0,22.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,West Kentport Chiefs,18,4,14.0,16.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,Gallegosstad Pirates,18,1,12.5,14.5,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,South Jonathan Commandos,18,1,4.0,6.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,New Jacqueline Vikings,18,1,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,North Adrianside Commandos,18,1,14.5,16.5,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,North Stevenberg Eagles,18,1,8.0,10.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,South Vincent Grizzlies,18,2,3.5,5.5,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,Riveraton Bears,18,2,12.0,14.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Donald Mavericks,South Kara Raptors,18,2,5.5,7.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Robinsonberg Bears,19,3,6.5,8.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jasonberg Hornets,Johntown Chiefs,19,1,10.0,12.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,Janiceland Bears,19,2,3.0,5.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,Patrickshire Hawks,19,6,11.5,13.5,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,West Kentport Chiefs,19,5,9.5,11.5,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,Gallegosstad Pirates,19,2,7.5,9.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,South Jonathan Commandos,19,1,5.5,7.5,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,New Jacqueline Vikings,19,1,7.5,9.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,North Adrianside Commandos,19,1,12.0,14.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,North Stevenberg Eagles,19,1,14.0,16.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Donald Mavericks,South Vincent Grizzlies,19,2,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Kara Raptors,Riveraton Bears,19,2,9.5,11.5,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,East Jasonberg Hornets,20,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+Anthonychester Vikings,Robinsonberg Bears,20,1,19.5,21.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,Johntown Chiefs,20,2,6.0,8.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Janiceland Bears,20,1,4.0,6.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,Patrickshire Hawks,20,3,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,West Kentport Chiefs,20,1,15.5,17.5,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,Gallegosstad Pirates,20,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,South Jonathan Commandos,20,1,11.5,13.5,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,New Jacqueline Vikings,20,1,13.5,15.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Donald Mavericks,North Adrianside Commandos,20,4,2.0,4.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Kara Raptors,North Stevenberg Eagles,20,1,17.5,19.5,2024,Platinum League,South Kimberly Plaza Field #1
+Riveraton Bears,South Vincent Grizzlies,20,5,8.0,10.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Anthonychester Vikings,21,2,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Joshuamouth Vikings,East Jasonberg Hornets,21,1,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Robinsonberg Bears,21,3,16.0,18.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,Johntown Chiefs,21,2,7.5,9.5,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,Janiceland Bears,21,1,5.5,7.5,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,Patrickshire Hawks,21,2,2.5,4.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,West Kentport Chiefs,21,2,16.0,18.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,Gallegosstad Pirates,21,1,13.0,15.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Donald Mavericks,South Jonathan Commandos,21,1,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Kara Raptors,New Jacqueline Vikings,21,1,15.0,17.0,2024,Platinum League,South Kimberly Plaza Field #1
+Riveraton Bears,North Adrianside Commandos,21,2,13.0,15.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Vincent Grizzlies,North Stevenberg Eagles,21,1,17.0,19.0,2024,Platinum League,South Kimberly Plaza Field #1
+East Jamesberg Mavericks,Lake Joshuamouth Vikings,22,2,11.0,13.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Gabrielmouth Bobcats,Anthonychester Vikings,22,2,2.0,4.0,2024,Platinum League,South Kimberly Plaza Field #1
+Fordfurt Hornets,East Jasonberg Hornets,22,1,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+Lake Jean Raptors,Robinsonberg Bears,22,1,10.5,12.5,2024,Platinum League,South Kimberly Plaza Field #1
+Roberttown Bobcats,Johntown Chiefs,22,1,12.5,14.5,2024,Platinum League,South Kimberly Plaza Field #1
+West Eddieland Pirates,Janiceland Bears,22,2,4.0,6.0,2024,Platinum League,South Kimberly Plaza Field #1
+Port Victoriaberg Americans,Patrickshire Hawks,22,3,5.0,7.0,2024,Platinum League,South Kimberly Plaza Field #1
+West Donald Mavericks,West Kentport Chiefs,22,4,9.0,11.0,2024,Platinum League,South Kimberly Plaza Field #1
+South Kara Raptors,Gallegosstad Pirates,22,1,14.5,16.5,2024,Platinum League,South Kimberly Plaza Field #1
+Riveraton Bears,South Jonathan Commandos,22,4,4.5,6.5,2024,Platinum League,South Kimberly Plaza Field #1
+South Vincent Grizzlies,New Jacqueline Vikings,22,1,7.0,9.0,2024,Platinum League,South Kimberly Plaza Field #1
+North Stevenberg Eagles,North Adrianside Commandos,22,1,16.5,18.5,2024,Platinum League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,North Robin Grizzlies,12,2,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Melissafort Raptors,Port Andrea Rappers,12,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Christianfurt Bobcats,East Jacob Americans,12,3,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Penamouth Robbers,Timothyborough Mavericks,12,7,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jamestown Mavericks,East Aprilton Bears,12,2,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferport Bears,South Kylehaven Commandos,12,2,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,East Susan Bulls,12,4,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,North Tammyville Bulls,12,3,5.5,7.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,East Stephanie Chargers,12,3,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,Cruzhaven Chargers,12,2,4.0,6.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Jenniferland Chargers,12,2,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,West Martin Commandos,12,4,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,Jenniferbury Mavericks,12,5,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,West Marcshire Vikings,12,5,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,Fosterborough Wildcats,12,2,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Jennifertown Mavericks,12,3,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,South Melissafort Raptors,13,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Christianfurt Bobcats,North Robin Grizzlies,13,2,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Penamouth Robbers,Port Andrea Rappers,13,2,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jamestown Mavericks,East Jacob Americans,13,3,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferport Bears,Timothyborough Mavericks,13,2,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,East Aprilton Bears,13,1,5.0,7.0,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,South Kylehaven Commandos,13,2,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,East Susan Bulls,13,3,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,North Tammyville Bulls,13,3,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Stephanie Chargers,13,4,8.5,10.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Cruzhaven Chargers,13,5,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Jenniferland Chargers,13,4,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,West Martin Commandos,13,4,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,Jenniferbury Mavericks,13,5,15.5,17.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,West Marcshire Vikings,13,2,1.0,3.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,Fosterborough Wildcats,13,3,1.5,3.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Christianfurt Bobcats,14,3,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Penamouth Robbers,South Melissafort Raptors,14,1,16.5,18.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jamestown Mavericks,North Robin Grizzlies,14,1,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferport Bears,Port Andrea Rappers,14,4,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,East Jacob Americans,14,3,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,Timothyborough Mavericks,14,2,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,East Aprilton Bears,14,2,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,South Kylehaven Commandos,14,1,2.5,4.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Susan Bulls,14,1,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,North Tammyville Bulls,14,2,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Stephanie Chargers,14,4,4.0,6.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Cruzhaven Chargers,14,2,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Jenniferland Chargers,14,3,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,West Martin Commandos,14,5,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,Jenniferbury Mavericks,14,4,21.5,23.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,West Marcshire Vikings,14,3,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Penamouth Robbers,15,4,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jamestown Mavericks,Christianfurt Bobcats,15,3,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferport Bears,South Melissafort Raptors,15,2,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,North Robin Grizzlies,15,1,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,Port Andrea Rappers,15,2,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,East Jacob Americans,15,1,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,Timothyborough Mavericks,15,3,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Aprilton Bears,15,2,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,South Kylehaven Commandos,15,2,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Susan Bulls,15,1,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,North Tammyville Bulls,15,2,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Stephanie Chargers,15,3,8.5,10.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Cruzhaven Chargers,15,5,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Jenniferland Chargers,15,3,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,West Martin Commandos,15,3,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,Jenniferbury Mavericks,15,2,0.5,2.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Jamestown Mavericks,16,2,4.5,6.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferport Bears,Penamouth Robbers,16,4,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,Christianfurt Bobcats,16,3,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,South Melissafort Raptors,16,2,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,North Robin Grizzlies,16,1,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,Port Andrea Rappers,16,1,2.5,4.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Jacob Americans,16,3,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Timothyborough Mavericks,16,2,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Aprilton Bears,16,2,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,South Kylehaven Commandos,16,2,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Susan Bulls,16,1,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,North Tammyville Bulls,16,3,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Stephanie Chargers,16,5,4.0,6.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Cruzhaven Chargers,16,3,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Jenniferland Chargers,16,5,0.0,2.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,West Martin Commandos,16,5,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Jenniferport Bears,17,4,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Lori Westerners,Jamestown Mavericks,17,4,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,Penamouth Robbers,17,4,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,Christianfurt Bobcats,17,3,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,South Melissafort Raptors,17,5,16.5,18.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,North Robin Grizzlies,17,1,17.5,19.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Port Andrea Rappers,17,4,11.5,13.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Jacob Americans,17,1,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Timothyborough Mavericks,17,2,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Aprilton Bears,17,2,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,South Kylehaven Commandos,17,2,5.0,7.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Susan Bulls,17,3,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,North Tammyville Bulls,17,2,16.5,18.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Stephanie Chargers,17,1,21.5,23.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Cruzhaven Chargers,17,5,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Jenniferland Chargers,17,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,North Lori Westerners,18,3,5.0,7.0,2024,Obsidian League,South Kimberly Plaza Field #1
+New Jeanette Bobcats,Jenniferport Bears,18,3,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,Jamestown Mavericks,18,1,16.5,18.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,Penamouth Robbers,18,4,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,Christianfurt Bobcats,18,3,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,South Melissafort Raptors,18,2,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,North Robin Grizzlies,18,2,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Port Andrea Rappers,18,2,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Jacob Americans,18,2,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Timothyborough Mavericks,18,2,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Aprilton Bears,18,2,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,South Kylehaven Commandos,18,3,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Susan Bulls,18,3,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,North Tammyville Bulls,18,3,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Stephanie Chargers,18,4,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Cruzhaven Chargers,18,5,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,New Jeanette Bobcats,19,3,8.5,10.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Toddbury Hawks,North Lori Westerners,19,2,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,Jenniferport Bears,19,3,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,Jamestown Mavericks,19,2,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Penamouth Robbers,19,4,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,Christianfurt Bobcats,19,1,16.0,18.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,South Melissafort Raptors,19,1,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,North Robin Grizzlies,19,2,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Port Andrea Rappers,19,1,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Jacob Americans,19,3,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Timothyborough Mavericks,19,3,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Aprilton Bears,19,3,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,South Kylehaven Commandos,19,1,1.0,3.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Susan Bulls,19,3,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,North Tammyville Bulls,19,3,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,East Stephanie Chargers,19,5,4.0,6.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,East Toddbury Hawks,20,2,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Galvanberg Raptors,New Jeanette Bobcats,20,3,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,North Lori Westerners,20,2,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Jenniferport Bears,20,2,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,Jamestown Mavericks,20,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Penamouth Robbers,20,4,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,Christianfurt Bobcats,20,3,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,South Melissafort Raptors,20,2,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,North Robin Grizzlies,20,2,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Port Andrea Rappers,20,4,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Jacob Americans,20,3,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Aprilton Bears,20,4,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,South Kylehaven Commandos,20,3,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,East Susan Bulls,20,1,21.5,23.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,North Tammyville Bulls,20,3,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Galvanberg Raptors,21,2,4.5,6.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Jonathan Jacks,East Toddbury Hawks,21,3,7.5,9.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,New Jeanette Bobcats,21,3,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,North Lori Westerners,21,4,4.5,6.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Jenniferport Bears,21,3,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,Jamestown Mavericks,21,3,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Penamouth Robbers,21,1,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,Christianfurt Bobcats,21,3,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,South Melissafort Raptors,21,2,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,North Robin Grizzlies,21,3,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Port Andrea Rappers,21,1,1.0,3.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Jacob Americans,21,3,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Timothyborough Mavericks,21,4,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,East Aprilton Bears,21,1,21.0,23.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,South Kylehaven Commandos,21,2,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,East Susan Bulls,21,4,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,West Jonathan Jacks,22,2,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brianport Raptors,Galvanberg Raptors,22,4,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,East Toddbury Hawks,22,1,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,New Jeanette Bobcats,22,2,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,North Lori Westerners,22,2,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Jenniferport Bears,22,2,18.0,20.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,Jamestown Mavericks,22,3,7.0,9.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Penamouth Robbers,22,4,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,Christianfurt Bobcats,22,5,2.0,4.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,South Melissafort Raptors,22,3,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,North Robin Grizzlies,22,2,20.0,22.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Port Andrea Rappers,22,5,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,East Jacob Americans,22,1,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,Timothyborough Mavericks,22,4,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,East Aprilton Bears,22,3,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,South Kylehaven Commandos,22,3,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Brianport Raptors,23,1,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Amyhaven Jacks,West Jonathan Jacks,23,1,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Galvanberg Raptors,23,1,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,East Toddbury Hawks,23,2,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,New Jeanette Bobcats,23,2,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,North Lori Westerners,23,1,12.5,14.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Jenniferport Bears,23,1,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,Jamestown Mavericks,23,5,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Penamouth Robbers,23,3,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,Christianfurt Bobcats,23,3,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,South Melissafort Raptors,23,2,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,North Robin Grizzlies,23,1,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,Port Andrea Rappers,23,1,16.5,18.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,East Jacob Americans,23,1,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,Timothyborough Mavericks,23,1,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Kylehaven Commandos,East Aprilton Bears,23,2,7.0,9.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,West Amyhaven Jacks,24,1,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Sherryview Celtics,Brianport Raptors,24,1,11.5,13.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,West Jonathan Jacks,24,2,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Galvanberg Raptors,24,2,3.0,5.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,East Toddbury Hawks,24,2,7.0,9.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,New Jeanette Bobcats,24,1,13.5,15.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,North Lori Westerners,24,5,14.5,16.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Jenniferport Bears,24,1,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,Jamestown Mavericks,24,2,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Penamouth Robbers,24,4,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,Christianfurt Bobcats,24,1,15.5,17.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,South Melissafort Raptors,24,1,17.5,19.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,North Robin Grizzlies,24,1,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,Port Andrea Rappers,24,1,21.5,23.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Kylehaven Commandos,East Jacob Americans,24,2,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Aprilton Bears,Timothyborough Mavericks,24,2,11.0,13.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,South Sherryview Celtics,25,1,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Rodriguezburgh Dolphins,West Amyhaven Jacks,25,1,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,Brianport Raptors,25,2,18.5,20.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,West Jonathan Jacks,25,1,11.5,13.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Galvanberg Raptors,25,1,13.5,15.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,East Toddbury Hawks,25,1,15.5,17.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,New Jeanette Bobcats,25,3,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,North Lori Westerners,25,2,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Jenniferport Bears,25,4,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,Jamestown Mavericks,25,1,17.5,19.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,Penamouth Robbers,25,1,19.5,21.5,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,Christianfurt Bobcats,25,3,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,South Melissafort Raptors,25,1,21.5,23.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Kylehaven Commandos,North Robin Grizzlies,25,2,5.5,7.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Aprilton Bears,Port Andrea Rappers,25,1,2.0,4.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Timothyborough Mavericks,East Jacob Americans,25,2,20.5,22.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,Rodriguezburgh Dolphins,26,1,6.0,8.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Stacey Warriors,South Sherryview Celtics,26,1,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,West Amyhaven Jacks,26,1,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,Brianport Raptors,26,1,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,West Jonathan Jacks,26,5,9.0,11.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Galvanberg Raptors,26,1,2.5,4.5,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,East Toddbury Hawks,26,2,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,New Jeanette Bobcats,26,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,North Lori Westerners,26,1,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,Jenniferport Bears,26,1,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,Jamestown Mavericks,26,3,6.5,8.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,Penamouth Robbers,26,1,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+South Kylehaven Commandos,Christianfurt Bobcats,26,2,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Aprilton Bears,South Melissafort Raptors,26,2,12.0,14.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Timothyborough Mavericks,North Robin Grizzlies,26,2,14.0,16.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jacob Americans,Port Andrea Rappers,26,4,13.5,15.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Brandonburgh Wildcats,South Stacey Warriors,27,2,3.5,5.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Jennifertown Mavericks,Rodriguezburgh Dolphins,27,1,10.5,12.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Fosterborough Wildcats,South Sherryview Celtics,27,1,5.0,7.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Marcshire Vikings,West Amyhaven Jacks,27,1,13.0,15.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Jenniferbury Mavericks,Brianport Raptors,27,1,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Martin Commandos,West Jonathan Jacks,27,2,8.0,10.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jenniferland Chargers,Galvanberg Raptors,27,3,9.5,11.5,2024,Obsidian League,South Kimberly Plaza Field #1
+Cruzhaven Chargers,East Toddbury Hawks,27,1,15.0,17.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Stephanie Chargers,New Jeanette Bobcats,27,1,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+North Tammyville Bulls,North Lori Westerners,27,2,13.5,15.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Susan Bulls,Jenniferport Bears,27,3,11.5,13.5,2024,Obsidian League,South Kimberly Plaza Field #1
+South Kylehaven Commandos,Jamestown Mavericks,27,2,5.5,7.5,2024,Obsidian League,South Kimberly Plaza Field #1
+East Aprilton Bears,Penamouth Robbers,27,2,10.0,12.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Timothyborough Mavericks,Christianfurt Bobcats,27,2,17.0,19.0,2024,Obsidian League,South Kimberly Plaza Field #1
+East Jacob Americans,South Melissafort Raptors,27,1,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+Port Andrea Rappers,North Robin Grizzlies,27,2,19.0,21.0,2024,Obsidian League,South Kimberly Plaza Field #1
+West Wendy Rappers,Edwardstown Dolphins,16,3,0.5,2.5,2024,Diamond League,South Kimberly Plaza Field #1
+West David Celtics,Zacharyberg Commandos,16,3,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+Chavezville Bears,Martinezton Grizzlies,16,3,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+East Anthony Grizzlies,South Michelle Sabres,16,4,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Barrybury Hawks,Port Roymouth Westerners,16,4,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Marcusberg Chiefs,New Jennyton Celtics,16,5,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,Victoriahaven Robbers,16,5,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,Lake Anthonytown Vikings,16,4,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Westview Warriors,16,5,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,Catherinechester Eagles,16,4,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Stacyfort Rappers,16,4,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Lisamouth Eagles,16,4,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Port Josemouth Grizzlies,16,7,7.0,9.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Port James Rappers,16,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,East Kevin Raptors,16,4,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Richardbury Rappers,16,4,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,North Antonio Raptors,16,7,9.0,11.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Jenniferside Bucaneers,16,7,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Erintown Bucaneers,16,6,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Jamesport Bucaneers,16,7,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Paulfort Sabres,16,6,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,New Jamesbury Bucaneers,16,6,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,West David Celtics,17,3,2.0,4.0,2024,Diamond League,South Kimberly Plaza Field #1
+Chavezville Bears,Edwardstown Dolphins,17,5,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+East Anthony Grizzlies,Zacharyberg Commandos,17,2,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Barrybury Hawks,Martinezton Grizzlies,17,2,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Marcusberg Chiefs,South Michelle Sabres,17,1,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,Port Roymouth Westerners,17,7,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,New Jennyton Celtics,17,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Victoriahaven Robbers,17,3,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,Lake Anthonytown Vikings,17,4,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Westview Warriors,17,3,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Catherinechester Eagles,17,4,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Stacyfort Rappers,17,2,20.5,22.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Lisamouth Eagles,17,6,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Port Josemouth Grizzlies,17,3,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Port James Rappers,17,3,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,East Kevin Raptors,17,3,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Richardbury Rappers,17,7,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,North Antonio Raptors,17,7,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Johnmouth Mavericks,17,4,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Jenniferside Bucaneers,17,6,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Erintown Bucaneers,17,6,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Paulfort Sabres,17,6,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,New Jamesbury Bucaneers,17,5,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Chavezville Bears,18,3,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+East Anthony Grizzlies,West David Celtics,18,3,14.0,16.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Barrybury Hawks,Edwardstown Dolphins,18,4,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Marcusberg Chiefs,Zacharyberg Commandos,18,1,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,Martinezton Grizzlies,18,5,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,South Michelle Sabres,18,4,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Port Roymouth Westerners,18,2,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,New Jennyton Celtics,18,5,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Victoriahaven Robbers,18,4,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Lake Anthonytown Vikings,18,6,9.0,11.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Westview Warriors,18,4,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Catherinechester Eagles,18,4,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Stacyfort Rappers,18,6,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Lisamouth Eagles,18,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Port Josemouth Grizzlies,18,5,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,East Kevin Raptors,18,5,7.0,9.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Richardbury Rappers,18,3,21.5,23.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,North Antonio Raptors,18,5,9.0,11.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Johnmouth Mavericks,18,6,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Jenniferside Bucaneers,18,7,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Erintown Bucaneers,18,6,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Jamesport Bucaneers,18,5,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Paulfort Sabres,18,5,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,East Anthony Grizzlies,19,4,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Barrybury Hawks,Chavezville Bears,19,5,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Marcusberg Chiefs,West David Celtics,19,2,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,Edwardstown Dolphins,19,7,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,Zacharyberg Commandos,19,4,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Martinezton Grizzlies,19,5,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,South Michelle Sabres,19,4,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Port Roymouth Westerners,19,4,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,New Jennyton Celtics,19,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Victoriahaven Robbers,19,1,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Lake Anthonytown Vikings,19,4,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Westview Warriors,19,5,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Catherinechester Eagles,19,4,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Stacyfort Rappers,19,5,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Lisamouth Eagles,19,7,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Port Josemouth Grizzlies,19,3,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Port James Rappers,19,6,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,East Kevin Raptors,19,4,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Richardbury Rappers,19,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,North Antonio Raptors,19,6,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Johnmouth Mavericks,19,5,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Jenniferside Bucaneers,19,5,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Erintown Bucaneers,19,6,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Jamesport Bucaneers,19,2,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,South Barrybury Hawks,20,5,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Marcusberg Chiefs,East Anthony Grizzlies,20,2,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,Chavezville Bears,20,3,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,West David Celtics,20,4,14.0,16.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Edwardstown Dolphins,20,4,16.0,18.0,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,Zacharyberg Commandos,20,5,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Martinezton Grizzlies,20,3,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,South Michelle Sabres,20,4,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Port Roymouth Westerners,20,2,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,New Jennyton Celtics,20,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Victoriahaven Robbers,20,5,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Lake Anthonytown Vikings,20,5,14.0,16.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Westview Warriors,20,3,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Catherinechester Eagles,20,4,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Stacyfort Rappers,20,5,16.0,18.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Lisamouth Eagles,20,5,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Port Josemouth Grizzlies,20,3,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Port James Rappers,20,4,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,East Kevin Raptors,20,7,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Richardbury Rappers,20,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,North Antonio Raptors,20,7,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Jenniferside Bucaneers,20,5,20.5,22.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Erintown Bucaneers,20,6,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,South Marcusberg Chiefs,21,3,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mitchellmouth Grizzlies,South Barrybury Hawks,21,1,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,East Anthony Grizzlies,21,4,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Chavezville Bears,21,5,9.0,11.0,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,West David Celtics,21,3,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Edwardstown Dolphins,21,4,12.5,14.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Zacharyberg Commandos,21,4,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Martinezton Grizzlies,21,5,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,South Michelle Sabres,21,4,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Port Roymouth Westerners,21,5,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,New Jennyton Celtics,21,5,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Victoriahaven Robbers,21,5,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Lake Anthonytown Vikings,21,7,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Westview Warriors,21,5,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Catherinechester Eagles,21,4,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Stacyfort Rappers,21,6,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Lisamouth Eagles,21,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Port James Rappers,21,6,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,East Kevin Raptors,21,5,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Richardbury Rappers,21,6,7.0,9.0,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,North Antonio Raptors,21,7,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Jenniferside Bucaneers,21,7,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Mitchellmouth Grizzlies,22,5,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Lake Ricardo Grizzlies,South Marcusberg Chiefs,22,4,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,South Barrybury Hawks,22,3,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,East Anthony Grizzlies,22,3,9.0,11.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Chavezville Bears,22,4,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,West David Celtics,22,4,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Edwardstown Dolphins,22,5,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Zacharyberg Commandos,22,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Martinezton Grizzlies,22,5,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,South Michelle Sabres,22,5,14.0,16.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Port Roymouth Westerners,22,5,16.0,18.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,New Jennyton Celtics,22,7,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Victoriahaven Robbers,22,6,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Lake Anthonytown Vikings,22,4,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Westview Warriors,22,7,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Catherinechester Eagles,22,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Stacyfort Rappers,22,5,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Lisamouth Eagles,22,6,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Port Josemouth Grizzlies,22,5,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Port James Rappers,22,6,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,East Kevin Raptors,22,6,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Richardbury Rappers,22,7,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,North Antonio Raptors,22,6,12.5,14.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Johnmouth Mavericks,22,6,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Lake Ricardo Grizzlies,23,4,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Randy Commandos,Mitchellmouth Grizzlies,23,7,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,South Marcusberg Chiefs,23,2,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,South Barrybury Hawks,23,3,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,East Anthony Grizzlies,23,4,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Chavezville Bears,23,2,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,West David Celtics,23,3,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Edwardstown Dolphins,23,4,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Zacharyberg Commandos,23,2,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Martinezton Grizzlies,23,2,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,South Michelle Sabres,23,3,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Port Roymouth Westerners,23,3,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,New Jennyton Celtics,23,4,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Victoriahaven Robbers,23,4,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Lake Anthonytown Vikings,23,2,20.5,22.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Westview Warriors,23,4,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Catherinechester Eagles,23,2,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Stacyfort Rappers,23,3,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Lisamouth Eagles,23,5,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Port Josemouth Grizzlies,23,4,12.5,14.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Port James Rappers,23,3,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,East Kevin Raptors,23,5,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Richardbury Rappers,23,7,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,North Antonio Raptors,23,5,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,West Randy Commandos,24,5,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Zamoraton Mavericks,Lake Ricardo Grizzlies,24,4,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,Mitchellmouth Grizzlies,24,3,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,South Marcusberg Chiefs,24,1,0.5,2.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,South Barrybury Hawks,24,1,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,East Anthony Grizzlies,24,7,12.5,14.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Chavezville Bears,24,2,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,West David Celtics,24,3,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Edwardstown Dolphins,24,5,16.5,18.5,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Zacharyberg Commandos,24,3,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Martinezton Grizzlies,24,3,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,South Michelle Sabres,24,4,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Port Roymouth Westerners,24,3,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,New Jennyton Celtics,24,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Victoriahaven Robbers,24,3,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Lake Anthonytown Vikings,24,2,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Westview Warriors,24,3,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Catherinechester Eagles,24,4,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Stacyfort Rappers,24,2,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Lisamouth Eagles,24,6,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Port Josemouth Grizzlies,24,3,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Port James Rappers,24,7,14.5,16.5,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,East Kevin Raptors,24,4,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,Richardbury Rappers,24,3,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Zamoraton Mavericks,25,2,2.0,4.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ashley Hornets,West Randy Commandos,25,4,14.0,16.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Lake Ricardo Grizzlies,25,2,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,Mitchellmouth Grizzlies,25,1,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,South Marcusberg Chiefs,25,2,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,South Barrybury Hawks,25,2,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,East Anthony Grizzlies,25,4,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Chavezville Bears,25,3,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,West David Celtics,25,3,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Edwardstown Dolphins,25,4,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Zacharyberg Commandos,25,3,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Martinezton Grizzlies,25,3,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,South Michelle Sabres,25,4,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Port Roymouth Westerners,25,3,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,New Jennyton Celtics,25,6,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Victoriahaven Robbers,25,3,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Lake Anthonytown Vikings,25,4,16.0,18.0,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Westview Warriors,25,4,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Catherinechester Eagles,25,4,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Stacyfort Rappers,25,6,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Lisamouth Eagles,25,5,18.5,20.5,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,Port Josemouth Grizzlies,25,7,16.0,18.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,Port James Rappers,25,5,4.0,6.0,2024,Diamond League,South Kimberly Plaza Field #1
+Richardbury Rappers,East Kevin Raptors,25,4,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,New Ashley Hornets,26,3,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Emilyville Sox,Zamoraton Mavericks,26,3,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,West Randy Commandos,26,4,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Lake Ricardo Grizzlies,26,4,10.5,12.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Mitchellmouth Grizzlies,26,5,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,South Marcusberg Chiefs,26,2,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,South Barrybury Hawks,26,2,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,East Anthony Grizzlies,26,1,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Chavezville Bears,26,3,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,West David Celtics,26,3,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Edwardstown Dolphins,26,5,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,Zacharyberg Commandos,26,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Martinezton Grizzlies,26,4,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,South Michelle Sabres,26,3,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Port Roymouth Westerners,26,3,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,New Jennyton Celtics,26,3,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Victoriahaven Robbers,26,4,8.5,10.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Lake Anthonytown Vikings,26,2,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Westview Warriors,26,4,3.0,5.0,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Catherinechester Eagles,26,2,2.0,4.0,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,Stacyfort Rappers,26,5,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,Lisamouth Eagles,26,6,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Richardbury Rappers,Port Josemouth Grizzlies,26,3,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+East Kevin Raptors,Port James Rappers,26,4,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,South Emilyville Sox,27,3,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+Mooreland Hornets,New Ashley Hornets,27,2,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,Zamoraton Mavericks,27,3,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,West Randy Commandos,27,3,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Lake Ricardo Grizzlies,27,4,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,Mitchellmouth Grizzlies,27,1,2.0,4.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,South Marcusberg Chiefs,27,1,21.0,23.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,South Barrybury Hawks,27,3,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,East Anthony Grizzlies,27,5,7.0,9.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Chavezville Bears,27,3,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,West David Celtics,27,4,13.0,15.0,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Edwardstown Dolphins,27,4,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,Zacharyberg Commandos,27,6,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Martinezton Grizzlies,27,3,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,South Michelle Sabres,27,4,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Port Roymouth Westerners,27,2,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,New Jennyton Celtics,27,3,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Victoriahaven Robbers,27,6,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,Lake Anthonytown Vikings,27,5,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,Westview Warriors,27,5,1.0,3.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,Catherinechester Eagles,27,4,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+Richardbury Rappers,Stacyfort Rappers,27,5,12.5,14.5,2024,Diamond League,South Kimberly Plaza Field #1
+East Kevin Raptors,Lisamouth Eagles,27,4,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Port James Rappers,Port Josemouth Grizzlies,27,4,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Mooreland Hornets,28,4,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Carrbury Mavericks,South Emilyville Sox,28,1,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,New Ashley Hornets,28,1,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,Zamoraton Mavericks,28,1,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,West Randy Commandos,28,1,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Lake Ricardo Grizzlies,28,4,11.0,13.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,Mitchellmouth Grizzlies,28,1,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,South Marcusberg Chiefs,28,1,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,South Barrybury Hawks,28,2,6.0,8.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,East Anthony Grizzlies,28,2,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,Chavezville Bears,28,1,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,West David Celtics,28,2,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Edwardstown Dolphins,28,2,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,Zacharyberg Commandos,28,2,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Martinezton Grizzlies,28,3,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,South Michelle Sabres,28,2,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Port Roymouth Westerners,28,3,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,New Jennyton Celtics,28,7,7.5,9.5,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,Victoriahaven Robbers,28,3,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,Lake Anthonytown Vikings,28,2,19.5,21.5,2024,Diamond League,South Kimberly Plaza Field #1
+Richardbury Rappers,Westview Warriors,28,4,2.5,4.5,2024,Diamond League,South Kimberly Plaza Field #1
+East Kevin Raptors,Catherinechester Eagles,28,2,2.0,4.0,2024,Diamond League,South Kimberly Plaza Field #1
+Port James Rappers,Stacyfort Rappers,28,3,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+Port Josemouth Grizzlies,Lisamouth Eagles,28,3,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Wendy Rappers,Carrbury Mavericks,29,1,15.0,17.0,2024,Diamond League,South Kimberly Plaza Field #1
+Brownborough Vikings,Mooreland Hornets,29,1,5.5,7.5,2024,Diamond League,South Kimberly Plaza Field #1
+New Ambermouth Pirates,South Emilyville Sox,29,1,17.0,19.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Shannon Sabres,New Ashley Hornets,29,1,8.0,10.0,2024,Diamond League,South Kimberly Plaza Field #1
+Bauermouth Vikings,Zamoraton Mavericks,29,1,19.0,21.0,2024,Diamond League,South Kimberly Plaza Field #1
+Benjaminton Sox,West Randy Commandos,29,1,10.0,12.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Emily Bulls,Lake Ricardo Grizzlies,29,1,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+West Nancy Chiefs,Mitchellmouth Grizzlies,29,5,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+North Kimberly Grizzlies,South Marcusberg Chiefs,29,2,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+South Zacharyville Bears,South Barrybury Hawks,29,2,4.5,6.5,2024,Diamond League,South Kimberly Plaza Field #1
+Kaitlynton Eagles,East Anthony Grizzlies,29,2,1.5,3.5,2024,Diamond League,South Kimberly Plaza Field #1
+West Matthewshire Chiefs,Chavezville Bears,29,3,5.0,7.0,2024,Diamond League,South Kimberly Plaza Field #1
+New Jamesbury Bucaneers,West David Celtics,29,2,6.5,8.5,2024,Diamond League,South Kimberly Plaza Field #1
+Paulfort Sabres,Edwardstown Dolphins,29,4,9.5,11.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jamesport Bucaneers,Zacharyberg Commandos,29,2,11.5,13.5,2024,Diamond League,South Kimberly Plaza Field #1
+Erintown Bucaneers,Martinezton Grizzlies,29,2,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+Jenniferside Bucaneers,South Michelle Sabres,29,5,17.5,19.5,2024,Diamond League,South Kimberly Plaza Field #1
+Johnmouth Mavericks,Port Roymouth Westerners,29,2,18.0,20.0,2024,Diamond League,South Kimberly Plaza Field #1
+North Antonio Raptors,New Jennyton Celtics,29,3,12.0,14.0,2024,Diamond League,South Kimberly Plaza Field #1
+Richardbury Rappers,Victoriahaven Robbers,29,3,15.5,17.5,2024,Diamond League,South Kimberly Plaza Field #1
+East Kevin Raptors,Lake Anthonytown Vikings,29,2,13.5,15.5,2024,Diamond League,South Kimberly Plaza Field #1
+Port James Rappers,Westview Warriors,29,2,20.0,22.0,2024,Diamond League,South Kimberly Plaza Field #1
+Port Josemouth Grizzlies,Catherinechester Eagles,29,4,3.5,5.5,2024,Diamond League,South Kimberly Plaza Field #1
+Lisamouth Eagles,Stacyfort Rappers,29,3,7.0,9.0,2024,Diamond League,South Kimberly Plaza Field #1
